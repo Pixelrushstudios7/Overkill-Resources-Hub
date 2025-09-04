@@ -27,5 +27,31 @@
       }
     ],
     "id": 1757002680322
+  },
+  {
+    "nombre": "Sprint Racer Mapa",
+    "categoria": "Minecraft",
+    "descripcion": "¡Prepárate para la emoción de las carreras de combate con Sprint Racer! Este Mapa te ofrece una experiencia de juego única y emocionante. Es tan bueno que ha sido oficialmente incluido en Java Minecraft Realms.",
+    "destacado": true,
+    "versiones": [
+      {
+        "version": "1.21.8",
+        "fecha": "2025-09-04",
+        "notas": "Ultima vercion en el mercado",
+        "etiquetas": [
+          "Construcción"
+        ],
+        "imagenes": [
+          "https://zonacraft.net/wp-content/uploads/2023/08/Sprint-Racer-Mapa-384x216.png"
+        ],
+        "descargas": [
+          {
+            "nombre": "Descargar 1.21.8",
+            "url": "https://www.curseforge.com/api/v1/mods/403270/files/6664652/download"
+          }
+        ]
+      }
+    ],
+    "id": 1757003044901
   }
 ]
