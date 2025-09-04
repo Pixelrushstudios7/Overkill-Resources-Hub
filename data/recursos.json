@@ -104,5 +104,31 @@
       }
     ],
     "id": 1757003420491
+  },
+  {
+    "nombre": "Mansión Elmhurst ",
+    "categoria": "Roblox",
+    "descripcion": "Sumérgete en el lujo con la Mansión Elmhurst , una finca moderna de low poly, bellamente diseñada, perfecta para juegos de rol, quedadas o juegos de exhibición. Con unas impresionantes dimensiones de 650 x 650 puntos , este mapa ofrece una experiencia espaciosa e inmersiva, llena de detalles y funcionalidad.",
+    "destacado": true,
+    "versiones": [
+      {
+        "version": "v1.0",
+        "fecha": "2025-09-04",
+        "notas": "Descargala ya",
+        "etiquetas": [
+          "Roleplay"
+        ],
+        "imagenes": [
+          "https://media.discordapp.net/attachments/1410226490259275847/1411528475785035866/1836001-a42abe047518b015e4ab8fca771341ec.png?ex=68baea95&is=68b99915&hm=734f3adb5b91d37af9109df4b97fd86243d95f75ebc80f66f3fa077a36005433&=&format=webp&quality=lossless&width=934&height=457"
+        ],
+        "descargas": [
+          {
+            "nombre": "Descargar v1.0",
+            "url": "https://cdn.discordapp.com/attachments/1410226490259275847/1411528038646284429/mansion.rbxl?ex=68baea2d&is=68b998ad&hm=82021caabe78b49473c775e1f93fec81605e3ce440cf4ca57e6b461301db5740&"
+          }
+        ]
+      }
+    ],
+    "id": 1757003714459
   }
 ]
