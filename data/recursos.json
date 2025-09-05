@@ -237,5 +237,65 @@
       }
     ],
     "id": 1757106864155
+  },
+  {
+    "nombre": "Botín aleatorio - Bloques",
+    "categoria": "Minecraft",
+    "descripcion": "Un modScript/addon que soltará objetos, colocará bloques o generará criaturas aleatorias al romper cualquier bloque, dejando caer objetos como manzanas encantadas, estrellas del Nether y mucho más.  Compatible con cualquier add-on/mod en cualquier mundo.  Cómo jugar: Simplemente rompe cualquier bloque y se soltarán objetos aleatorios, aparecerán enemigos o se colocarán bloques de cualquier tipo. El único objetivo es divertirse consiguiendo objetos aleatorios y sobrevivir a los enemigos que puedan aparecer.  Agacharse desactivará temporalmente el complemento. Los enemigos como el dragón, el wither, el guardián y el guardián anciano morirán al instante para no molestar a los jugadores.",
+    "destacado": true,
+    "versiones": [
+      {
+        "version": "1.21.90",
+        "fecha": "2025-09-05",
+        "notas": "Efecto99 Dueño",
+        "etiquetas": [
+          "Mods"
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1757110546079-captura-de-pantalla-2024-02-01-160521.png"
+        ],
+        "descargas": [
+          {
+            "nombre": "1.21.90",
+            "url": "https://mediafilez.forgecdn.net/files/6776/880/Random%20Loot%20-%20Blocks%20%281.21.20..%20to%201.21.90%2B%29.mcpack"
+          }
+        ]
+      },
+      {
+        "version": "1.21.80",
+        "fecha": "2025-09-05",
+        "notas": "Efecto99 Dueño",
+        "etiquetas": [
+          "Mods"
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1757110546079-captura-de-pantalla-2024-02-01-160521.png"
+        ],
+        "descargas": [
+          {
+            "nombre": "1.21.80",
+            "url": "https://mediafilez.forgecdn.net/files/6627/414/Random%20Loot%20-%20Blocks%20%281.21.50..%20to%201.21.80%2B%29.mcpack"
+          }
+        ]
+      },
+      {
+        "version": "1.21.70",
+        "fecha": "2025-09-05",
+        "notas": "Efecto99 Dueño",
+        "etiquetas": [
+          "Mods"
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1757110546079-captura-de-pantalla-2024-02-01-160521.png"
+        ],
+        "descargas": [
+          {
+            "nombre": "1.21.70",
+            "url": "https://mediafilez.forgecdn.net/files/6627/414/Random%20Loot%20-%20Blocks%20%281.21.50..%20to%201.21.80%2B%29.mcpack"
+          }
+        ]
+      }
+    ],
+    "id": 1757111096018
   }
 ]
