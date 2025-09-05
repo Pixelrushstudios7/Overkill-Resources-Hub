@@ -1,1 +1,31 @@
-[]
+[
+  {
+    "nombre": "Mini Parkour Paradise Mapa",
+    "categoria": "Minecraft",
+    "descripcion": "El Mini Parkour Paradise Mapa es una versión reducida de los famosos mapas de Parkour Paradise. Incluye 9 salas llenas de obstáculos emocionantes y un parkour final en la dimensión del End. Aunque no es extremadamente difícil, cada sala te pondrá a prueba con saltos precisos y movimientos ágiles, lo que lo hace ideal para jugadores de todos los niveles. El objetivo es sencillo: llegar a la sala del End y completar el desafío final.  En la dimensión del End, te encontrarás con un parkour largo y desafiante que pondrá a prueba tus habilidades al máximo.",
+    "destacado": true,
+    "versiones": [
+      {
+        "version": "1.21.1",
+        "fecha": "2025-09-05",
+        "notas": "Solo esta disponible esta vercion",
+        "etiquetas": [
+          "Construcción"
+        ],
+        "imagenes": [
+          "https://zonacraft.net/wp-content/uploads/2025/02/mini-parkour-paradise-mapa.webp",
+          "https://zonacraft.net/wp-content/uploads/2025/02/mini-parkour-paradise-mapa-2.webp",
+          "https://zonacraft.net/wp-content/uploads/2025/02/mini-parkour-paradise-mapa-3.webp",
+          "https://zonacraft.net/wp-content/uploads/2025/02/mini-parkour-paradise-mapa-4.webp"
+        ],
+        "descargas": [
+          {
+            "nombre": "1.21.1",
+            "url": "https://www.curseforge.com/api/v1/mods/1059850/files/5819510/download"
+          }
+        ]
+      }
+    ],
+    "id": 1757104128936
+  }
+]
