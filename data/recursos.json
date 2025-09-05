@@ -461,5 +461,34 @@
       }
     ],
     "id": 1757112922892
+  },
+  {
+    "nombre": "Mapa gratuito del mirador de Frost Haven ",
+    "categoria": "Roblox",
+    "descripcion": "Estructura de torre de vigilancia elevada : construida sobre pilotes de madera con múltiples niveles Accesorios y modelos gratis Plataforma de observación envolvente : balcones cubiertos de nieve con barandillas de madera que rodean la estructura principal Acogedor espacio interior habitable : cuenta con una cálida estufa de leña, un área de cocina sencilla, asientos cómodos y vigas de madera rústicas. Ventanas de piso a techo : ofrecen una vista impresionante del bosque brumoso y las montañas distantes. Entorno natural nevado : terreno nevado con senderos sinuosos a través de un denso bosque nevado. Iluminación atmosférica : Atmósfera crepuscular teñida de azul con toques de luz de estrellas y niebla sutil. Red de Senderos : Caminos de piedra y escaleras de madera que conectan diferentes zonas del mirador y el terreno circundante. Ubicación aislada : Entorno remoto lejos de la civilización, enclavado en lo alto de un paisaje invernal montañoso.",
+    "destacado": true,
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-05",
+        "notas": " Estudios Bz1 Dueño",
+        "etiquetas": [
+          "Roleplay"
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/Roblox/main/assets/img/1757113984198-images.webp",
+          "https://raw.githubusercontent.com/andersonculero/Roblox/main/assets/img/1757114033983-1843923-16349e7d572e259bbe0b0446664d937b.webp",
+          "https://raw.githubusercontent.com/andersonculero/Roblox/main/assets/img/1757114062301-1843927-b7b08b38017346884d6f4186296372a7.webp",
+          "https://raw.githubusercontent.com/andersonculero/Roblox/main/assets/img/1757114074036-1843926-a576497b936c44f870fff8e44e59f2cb.webp"
+        ],
+        "descargas": [
+          {
+            "nombre": "V1",
+            "url": "https://cdn.discordapp.com/attachments/1410226490259275847/1411529257510764635/Free_Frost_Haven_Lookout_Map__Models.rbxl?ex=68bc3ccf&is=68baeb4f&hm=b4e13c8dce3011562b1d63cc80a27ff9fbe7742329b014ba3f7c85addf824c10&"
+          }
+        ]
+      }
+    ],
+    "id": 1757114118564
   }
 ]
