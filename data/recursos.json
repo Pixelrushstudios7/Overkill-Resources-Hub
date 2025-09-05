@@ -289,5 +289,100 @@
       }
     ],
     "id": 1757111624793
+  },
+  {
+    "nombre": "Más perspectivas de la cámara",
+    "categoria": "Minecraft",
+    "descripcion": "Minecraft viene con solo tres perspectivas de cámara básicas que funcionan, pero para los jugadores que buscan creatividad cinematográfica, eso no es suficiente.  Ahí es donde entra en juego este complemento. Introduce una amplia gama de perspectivas de cámara dinámicas y personalizables, perfectas para creadores, constructores, exploradores y jugadores ocasionales por igual.  En la versión 3.2.0 de este complemento, hay un total de 12 tipos de cámara diferentes, cada uno con múltiples perspectivas. Por ejemplo, el primer tipo de cámara (Espalda Dinámica en Tercera Persona) incluye más de 12 perspectivas. También puedes crear tu propia perspectiva dinámica en tercera persona con todas las personalizaciones.  Entonces, si contamos todas las perspectivas de cámara de los 12 tipos, el total asciende a más de 30. Y como cada perspectiva es totalmente personalizable, este complemento técnicamente añade un número incontable de perspectivas de cámara.  Todos tus datos de personalización se guardan de forma permanente, por lo que tus configuraciones nunca se perderán.",
+    "destacado": false,
+    "versiones": [
+      {
+        "version": "1.21.90",
+        "fecha": "2025-09-05",
+        "notas": "DarkBlockGaming Dueño",
+        "etiquetas": [
+          "Mods"
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1757111924903-coverth-jpg.jpg",
+          "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1757111940111-more-cam-pers-16-9-jpg.jpg"
+        ],
+        "descargas": [
+          {
+            "nombre": "1.21.90",
+            "url": "https://mediafilez.forgecdn.net/files/6720/313/MoreCamPers%20v3.2.1.mcpack"
+          }
+        ]
+      },
+      {
+        "version": "1.21.82",
+        "fecha": "2025-09-05",
+        "notas": "DarkBlockGaming Dueño",
+        "etiquetas": [
+          "Mods"
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1757111940111-more-cam-pers-16-9-jpg.jpg"
+        ],
+        "descargas": [
+          {
+            "nombre": "1.21.82",
+            "url": "https://mediafilez.forgecdn.net/files/6720/313/MoreCamPers%20v3.2.1.mcpack"
+          }
+        ]
+      },
+      {
+        "version": "1.21.81",
+        "fecha": "2025-09-05",
+        "notas": "DarkBlockGaming Dueño",
+        "etiquetas": [
+          "Mods"
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1757111940111-more-cam-pers-16-9-jpg.jpg"
+        ],
+        "descargas": [
+          {
+            "nombre": "1.21.81",
+            "url": "https://mediafilez.forgecdn.net/files/6547/904/MoreCamPers_v3.2.0.mcpack"
+          }
+        ]
+      },
+      {
+        "version": " 1.21.80",
+        "fecha": "2025-09-05",
+        "notas": "DarkBlockGaming Dueño",
+        "etiquetas": [
+          "Mods"
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1757111924903-coverth-jpg.jpg"
+        ],
+        "descargas": [
+          {
+            "nombre": " 1.21.80",
+            "url": "https://mediafilez.forgecdn.net/files/6547/904/MoreCamPers_v3.2.0.mcpack"
+          }
+        ]
+      },
+      {
+        "version": "1.21.70",
+        "fecha": "2025-09-05",
+        "notas": "DarkBlockGaming Dueño",
+        "etiquetas": [
+          "Mods"
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1757111924903-coverth-jpg.jpg"
+        ],
+        "descargas": [
+          {
+            "nombre": "1.21.70",
+            "url": "https://mediafilez.forgecdn.net/files/6295/339/MoreCameraPerspectives%20v3-1-2.mcpack"
+          }
+        ]
+      }
+    ],
+    "id": 1757112431981
   }
 ]
