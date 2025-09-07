@@ -579,32 +579,6 @@
     "id": 1757281206363
   },
   {
-    "nombre": "Click mause",
-    "categoria": "Edición",
-    "descripcion": "efecto de sonido para edicciones ",
-    "destacado": true,
-    "versiones": [
-      {
-        "version": "click",
-        "fecha": "2025-09-06",
-        "notas": "Overkill",
-        "etiquetas": [
-          "Recursos"
-        ],
-        "imagenes": [
-          "https://raw.githubusercontent.com/andersonculero/Edici-n/main/assets/img/1757173561252-fq8s2cm3qx5-mouse-click-sound-effects.webp"
-        ],
-        "descargas": [
-          {
-            "nombre": "click",
-            "url": "https://raw.githubusercontent.com/andersonculero/Edici-n/main/assets/files/1757173371992-mouse-click-290204.mp3"
-          }
-        ]
-      }
-    ],
-    "id": 1757281651040
-  },
-  {
     "nombre": "Sistema de Mini Map para Roblox",
     "categoria": "Roblox",
     "descripcion": "El Sistema de Mini Map es un script gratuito para Roblox que añade un minimapa interactivo dentro de tu juego. Este recurso permite a los jugadores orientarse fácilmente en el mapa, mostrando su posición actual y los alrededores en tiempo real.  Es altamente personalizable, por lo que puedes decidir su estilo, tamaño, ubicación en pantalla e incluso qué elementos o zonas aparecen visibles en el minimapa. Ideal para juegos de exploración, aventuras, mundos abiertos o simuladores donde la navegación es clave.  Gracias a su diseño flexible, se adapta a distintos géneros de juegos y puede convertirse en una herramienta esencial para mejorar la jugabilidad y la experiencia de los jugadores.El Sistema de Mini Map es un script gratuito para Roblox que añade un minimapa interactivo dentro de tu juego. Este recurso permite a los jugadores orientarse fácilmente en el mapa, mostrando su posición actual y los alrededores en tiempo real.  Es altamente personalizable, por lo que puedes decidir su estilo, tamaño, ubicación en pantalla e incluso qué elementos o zonas aparecen visibles en el minimapa. Ideal para juegos de exploración, aventuras, mundos abiertos o simuladores donde la navegación es clave.  Gracias a su diseño flexible, se adapta a distintos géneros de juegos y puede convertirse en una herramienta esencial para mejorar la jugabilidad y la experiencia de los jugadores.",
