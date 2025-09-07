@@ -824,5 +824,33 @@
       }
     ],
     "id": 1757284330301
+  },
+  {
+    "nombre": "PACK De EFECTOS De SONIDO",
+    "categoria": "Edición",
+    "descripcion": "El PACK de EFECTOS DE SONIDO es una colección completa y organizada de efectos de audio listos para usar en todo tipo de proyectos, desde videos de YouTube y transmisiones en vivo, hasta videojuegos o creaciones multimedia. Está diseñado para creadores que desean añadir realismo, emoción y dinamismo a sus producciones mediante sonidos de alta calidad.  Este pack incluye una gran variedad de efectos, como explosiones, pasos, ruidos ambientales, impactos, transiciones y mucho más, todos en formatos compatibles con los principales programas de edición y producción. Gracias a esto, podrás mejorar la inmersión y el impacto de tus contenidos, haciendo que cada escena o momento destaque de manera profesional.",
+    "destacado": true,
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-07",
+        "notas": "👤 CREADOR:Ayuda Para YOUTUBERS",
+        "etiquetas": [
+          "Photoshop",
+          "After Effects",
+          "Recursos"
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/Edici-n/main/assets/img/1757284480602-hqdefault.avif"
+        ],
+        "descargas": [
+          {
+            "nombre": "v1",
+            "url": "https://www.mediafire.com/download/colgogf7kbzqm4s"
+          }
+        ]
+      }
+    ],
+    "id": 1757284483915
   }
 ]
