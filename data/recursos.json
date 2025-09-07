@@ -796,5 +796,33 @@
       }
     ],
     "id": 1757283883867
+  },
+  {
+    "nombre": "PACK de MEMES Para EDITAR VIDEOS de YOUTUBE (2025)😂",
+    "categoria": "Edición",
+    "descripcion": "El recurso “NUEVO PACK de MEMES para EDITAR VIDEOS de YOUTUBE (2025)” es una colección completa y actualizada de memes listos para usar en tus producciones de video. Está diseñado especialmente para creadores de contenido que desean añadir humor, dinamismo y un toque moderno a sus videos, haciendo que cada edición sea más entretenida y atractiva para la audiencia.  Este pack incluye memes en formatos compatibles con programas de edición populares, lo que permite insertarlos fácilmente en cualquier proyecto sin complicaciones. Gracias a esto, podrás resaltar momentos divertidos, reforzar punchlines o agregar efectos cómicos, elevando la calidad y el engagement de tus videos.",
+    "destacado": true,
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-06",
+        "notas": "Overkill",
+        "etiquetas": [
+          "Photoshop",
+          "After Effects",
+          "Recursos"
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/Edici-n/main/assets/img/1757284327085-hqdefault.avif"
+        ],
+        "descargas": [
+          {
+            "nombre": "v1",
+            "url": "https://www.mediafire.com/file/0wxxptkw4zzwmly/Pack_De_Memes_%2528Ayuda_Para_YouFubers%2529.zip/file"
+          }
+        ]
+      }
+    ],
+    "id": 1757284330301
   }
 ]
