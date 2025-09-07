@@ -879,5 +879,50 @@
       }
     ],
     "id": 1757284715382
+  },
+  {
+    "nombre": "ESTILOS de LETRAS para PHOTOSHOP 2025",
+    "categoria": "Edición",
+    "descripcion": "El recurso ESTILOS de LETRAS para PHOTOSHOP 2025 es una colección completa de estilos tipográficos modernos y creativos, diseñada para diseñadores, editores y creadores de contenido que desean darle un toque profesional y original a sus textos en Photoshop. Con estos estilos, podrás transformar cualquier tipografía básica en diseños llamativos, elegantes o divertidos, adaptándose a todo tipo de proyectos gráficos.",
+    "destacado": true,
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-07",
+        "notas": "👤 CREADOR: manu DT",
+        "etiquetas": [
+          "Photoshop",
+          "Recursos"
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/Edici-n/main/assets/img/1757284859854-hqdefault.avif"
+        ],
+        "descargas": [
+          {
+            "nombre": "PSD",
+            "url": "https://www.mediafire.com/file/3j89vbdwgkqsycv/PACK_ESTILOS_LETRAS_MANUDT_%2528archivo_PSD_%2529.rar/file"
+          }
+        ]
+      },
+      {
+        "version": "v2",
+        "fecha": "2025-09-07",
+        "notas": "👤 CREADOR: manu DT",
+        "etiquetas": [
+          "Photoshop",
+          "Recursos"
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/Edici-n/main/assets/img/1757284921429-hqdefault.avif"
+        ],
+        "descargas": [
+          {
+            "nombre": "FX",
+            "url": "https://www.mediafire.com/file/ovio8h9ncon5ag2/PACK_ESTILOS_LETRAS_MANUDT_%2528archivo_FX-.SLP%2529.rar/file"
+          }
+        ]
+      }
+    ],
+    "id": 1757284929077
   }
 ]
