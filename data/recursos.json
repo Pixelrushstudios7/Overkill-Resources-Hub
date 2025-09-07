@@ -924,5 +924,32 @@
       }
     ],
     "id": 1757284929077
+  },
+  {
+    "nombre": "PACK de FONDOS para MINIATURAS ",
+    "categoria": "Edición",
+    "descripcion": "El recurso PACK de FONDOS para MINIATURAS es una colección completa de imágenes y diseños listos para usar, pensada especialmente para creadores de contenido que desean mejorar la apariencia de sus miniaturas en YouTube u otras plataformas. Con este pack, podrás crear miniaturas más atractivas, profesionales y llamativas, captando la atención de tu audiencia desde el primer vistazo.  Incluye una gran variedad de fondos, desde paisajes, texturas, efectos abstractos, hasta diseños temáticos, lo que permite adaptarse a cualquier tipo de contenido, ya sean videos de gaming, tutoriales, vlogs o entretenimiento general. Todos los archivos están en alta resolución y formatos compatibles con los programas de edición más utilizados, garantizando facilidad de uso y resultados de calidad profesional.",
+    "destacado": true,
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-07",
+        "notas": "👤 CREADOR: manu DT",
+        "etiquetas": [
+          "Photoshop",
+          "Recursos"
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/Edici-n/main/assets/img/1757285055329-hqdefault.avif"
+        ],
+        "descargas": [
+          {
+            "nombre": "Mediafire",
+            "url": "https://www.mediafire.com/file/tfeg6n8kdgen1yg/S%25C3%259APER_PACK_DE_FONDOS__-manuDT25_-.rar/file"
+          }
+        ]
+      }
+    ],
+    "id": 1757285059903
   }
 ]
