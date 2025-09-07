@@ -550,32 +550,6 @@
     "id": 1757116001839
   },
   {
-    "nombre": "Click mause",
-    "categoria": "Edición",
-    "descripcion": "efecto de sonido para edicciones ",
-    "destacado": true,
-    "versiones": [
-      {
-        "version": "click",
-        "fecha": "2025-09-06",
-        "notas": "Overkill",
-        "etiquetas": [
-          "Recursos"
-        ],
-        "imagenes": [
-          "https://raw.githubusercontent.com/andersonculero/Edici-n/main/assets/img/1757173561252-fq8s2cm3qx5-mouse-click-sound-effects.webp"
-        ],
-        "descargas": [
-          {
-            "nombre": "click",
-            "url": "https://raw.githubusercontent.com/andersonculero/Edici-n/main/assets/files/1757173371992-mouse-click-290204.mp3"
-          }
-        ]
-      }
-    ],
-    "id": 1757173573733
-  },
-  {
     "nombre": "Sistema de Clima para roblox",
     "categoria": "Roblox",
     "descripcion": "Este recurso es un sistema de clima dinámico para Roblox, totalmente gratuito y adaptable a cualquier proyecto. Permite añadir efectos realistas como lluvia, tormentas, neblina, soleado y más, dándole mayor inmersión y realismo a tus juegos.  Su principal ventaja es la flexibilidad: tú decides cómo y dónde aplicarlo, ya sea en mapas de rol, aventuras, simuladores o cualquier tipo de experiencia. Además, al estar desarrollado en script, se puede modificar y personalizar según tus necesidades.  ✨ Ideal para quienes buscan agregar un toque profesional y envolvente a sus creaciones sin costo alguno.",
