@@ -916,5 +916,33 @@
       }
     ],
     "id": 1757379348956
+  },
+  {
+    "nombre": "Sistema de Mini Map para Roblox",
+    "categoria": "Roblox",
+    "descripcion": "El Sistema de Mini Map es un script gratuito para Roblox que añade un minimapa interactivo dentro de tu juego. Este recurso permite a los jugadores orientarse fácilmente en el mapa, mostrando su posición actual y los alrededores en tiempo real.  Es altamente personalizable, por lo que puedes decidir su estilo, tamaño, ubicación en pantalla e incluso qué elementos o zonas aparecen visibles en el minimapa. Ideal para juegos de exploración, aventuras, mundos abiertos o simuladores donde la navegación es clave.  Gracias a su diseño flexible, se adapta a distintos géneros de juegos y puede convertirse en una herramienta esencial para mejorar la jugabilidad y la experiencia de los jugadores.El Sistema de Mini Map es un script gratuito para Roblox que añade un minimapa interactivo dentro de tu juego. Este recurso permite a los jugadores orientarse fácilmente en el mapa, mostrando su posición actual y los alrededores en tiempo real.  Es altamente personalizable, por lo que puedes decidir su estilo, tamaño, ubicación en pantalla e incluso qué elementos o zonas aparecen visibles en el minimapa. Ideal para juegos de exploración, aventuras, mundos abiertos o simuladores donde la navegación es clave.  Gracias a su diseño flexible, se adapta a distintos géneros de juegos y puede convertirse en una herramienta esencial para mejorar la jugabilidad y la experiencia de los jugadores.",
+    "destacado": false,
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-07",
+        "notas": "👤 CREADOR:Picante",
+        "etiquetas": [
+          "scripts"
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/Roblox/main/assets/img/1757281790951-_22__Discord__________scripts-basicos___Overkill_Studios_-_Google_Chrome_07_09_2025_17_44_02.png",
+          "https://raw.githubusercontent.com/andersonculero/Roblox/main/assets/img/1757281798710-_22__Discord__________scripts-basicos___Overkill_Studios_-_Google_Chrome_07_09_2025_17_44_17.png",
+          "https://raw.githubusercontent.com/andersonculero/Roblox/main/assets/img/1757281809098-_22__Discord__________scripts-basicos___Overkill_Studios_-_Google_Chrome_07_09_2025_17_44_29.png"
+        ],
+        "descargas": [
+          {
+            "nombre": "v1",
+            "url": "https://drive.google.com/file/d/1yF8THGCtuUrN3ne7BVkEVr_L2lxVAvX1/view?usp=drive_link"
+          }
+        ]
+      }
+    ],
+    "id": 1757379372956
   }
 ]
