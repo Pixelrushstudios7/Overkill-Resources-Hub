@@ -978,5 +978,31 @@
       }
     ],
     "id": 1757285204167
+  },
+  {
+    "nombre": "prueva ",
+    "categoria": "Roblox",
+    "descripcion": "paraprobar como funciona",
+    "destacado": true,
+    "versiones": [
+      {
+        "version": "1",
+        "fecha": "2025-09-09",
+        "notas": "ejemplo",
+        "etiquetas": [
+          "skins"
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/Roblox/main/assets/img/1757378470103-download.jpg"
+        ],
+        "descargas": [
+          {
+            "nombre": "1",
+            "url": "https://mundoeroverse.onrender.com/novela.html?id=mfae2moh1a0id"
+          }
+        ]
+      }
+    ],
+    "id": 1757378568871
   }
 ]
