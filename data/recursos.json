@@ -914,5 +914,31 @@
       }
     ],
     "id": 1757379433630
+  },
+  {
+    "nombre": "PARQUE + PANTALLA para mta",
+    "categoria": "MTA",
+    "descripcion": "El mod PARQUE + PANTALLA está diseñado para mejorar y expandir la experiencia visual y de interacción dentro del juego, añadiendo un parque completo acompañado de una pantalla integrada que puede mostrar información, animaciones o contenido dentro del entorno. Este recurso permite a los jugadores disfrutar de un espacio más inmersivo y dinámico, ideal para quienes buscan personalizar sus partidas con detalles realistas y llamativos.  A pesar de sus funcionalidades, el mod es ligero, por lo que no ocupa demasiado espacio ni afecta el rendimiento del juego. Incluye además una imagen de referencia, permitiendo a los usuarios visualizar cómo lucirá el parque y la pantalla antes de instalarlo.",
+    "destacado": true,
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-07",
+        "notas": "👤 CREADOR:DANGER FIRE YT",
+        "etiquetas": [
+          "mapeos"
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1757283557391-Grand_Theft_Auto_San_Andreas_Screenshot_2025.07.25_-_08.28.30.41.webp"
+        ],
+        "descargas": [
+          {
+            "nombre": "v1",
+            "url": "https://www.mediafire.com/file/hm103a9fu9nbang/EtvxPlaza.rar/file"
+          }
+        ]
+      }
+    ],
+    "id": 1757379448381
   }
 ]
