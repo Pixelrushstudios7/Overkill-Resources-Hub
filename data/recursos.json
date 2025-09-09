@@ -912,5 +912,31 @@
       }
     ],
     "id": 1757379448381
+  },
+  {
+    "nombre": "MAP CONCESIONARIA + SISTEMA ",
+    "categoria": "MTA",
+    "descripcion": "El mod MAP CONCESIONARIA + SISTEMA está diseñado para ofrecer una experiencia de juego más completa y realista, incorporando un mapa de concesionaria totalmente funcional junto con un sistema integrado que permite interactuar con los vehículos de manera más organizada y práctica. Este recurso es ideal para jugadores que buscan gestionar, personalizar y explorar vehículos dentro del juego, creando un entorno mucho más dinámico y atractivo.",
+    "destacado": true,
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-07",
+        "notas": "👤 CREADOR:DANGER FIRE YT",
+        "etiquetas": [
+          "mapeos"
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1757283699757-Grand_Theft_Auto_San_Andreas_Screenshot_2025.07.25_-_08.27.39.38.webp"
+        ],
+        "descargas": [
+          {
+            "nombre": "v1",
+            "url": "https://www.mediafire.com/file/jbpoxx481okdj8z/concesionaria.rar/file"
+          }
+        ]
+      }
+    ],
+    "id": 1757379463385
   }
 ]
