@@ -1,31 +1,5 @@
 [
   {
-    "nombre": "prueva ",
-    "categoria": "Roblox",
-    "descripcion": "paraprobar como funciona",
-    "destacado": true,
-    "versiones": [
-      {
-        "version": "1",
-        "fecha": "2025-09-09",
-        "notas": "ejemplo",
-        "etiquetas": [
-          "skins"
-        ],
-        "imagenes": [
-          "https://raw.githubusercontent.com/andersonculero/Roblox/main/assets/img/1757378470103-download.jpg"
-        ],
-        "descargas": [
-          {
-            "nombre": "1",
-            "url": "https://mundoeroverse.onrender.com/novela.html?id=mfae2moh1a0id"
-          }
-        ]
-      }
-    ],
-    "id": 1757378568871
-  },
-  {
     "nombre": "Mini Parkour Paradise Mapa",
     "categoria": "Minecraft",
     "descripcion": "El Mini Parkour Paradise Mapa es una versión reducida de los famosos mapas de Parkour Paradise. Incluye 9 salas llenas de obstáculos emocionantes y un parkour final en la dimensión del End. Aunque no es extremadamente difícil, cada sala te pondrá a prueba con saltos precisos y movimientos ágiles, lo que lo hace ideal para jugadores de todos los niveles. El objetivo es sencillo: llegar a la sala del End y completar el desafío final.  En la dimensión del End, te encontrarás con un parkour largo y desafiante que pondrá a prueba tus habilidades al máximo.",
