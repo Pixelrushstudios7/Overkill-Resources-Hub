@@ -867,5 +867,82 @@
       }
     ],
     "id": 1757379193840
+  },
+  {
+    "nombre": "Complemento de relleno de agujeros",
+    "categoria": "Minecraft",
+    "descripcion": "El complemento Rellenador de Agujeros introduce un nuevo objeto en Minecraft Bedrock Edition, diseñado para rellenar al instante los agujeros creados por explosiones de TNT, creepers y otros tipos de destrucción. Simplemente lanza el Rellenador de Agujeros en cualquier cráter y llenará rápidamente el espacio con bloques.",
+    "destacado": false,
+    "versiones": [
+      {
+        "version": "1.21.100",
+        "fecha": "2025-09-05",
+        "notas": "DarkBlockGaming Dueño",
+        "etiquetas": [
+          "scripts"
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1757112674548-holefilleraddon.jpg"
+        ],
+        "descargas": [
+          {
+            "nombre": "1.21.100",
+            "url": "https://mediafilez.forgecdn.net/files/6857/998/Hole-Filler-Add-on%20v1.4.0.mcpack"
+          }
+        ]
+      },
+      {
+        "version": " 1.21.90",
+        "fecha": "2025-09-05",
+        "notas": "DarkBlockGaming Dueño",
+        "etiquetas": [
+          "scripts"
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1757112674548-holefilleraddon.jpg"
+        ],
+        "descargas": [
+          {
+            "nombre": " 1.21.90",
+            "url": "https://mediafilez.forgecdn.net/files/6669/755/HoleFillerAddon-v1-3-0.mcpack"
+          }
+        ]
+      },
+      {
+        "version": "1.21.82",
+        "fecha": "2025-09-05",
+        "notas": "DarkBlockGaming Dueño",
+        "etiquetas": [
+          "scripts"
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1757112674548-holefilleraddon.jpg"
+        ],
+        "descargas": [
+          {
+            "nombre": "1.21.82",
+            "url": "https://mediafilez.forgecdn.net/files/6608/546/Hole%20Filler%20Add-on%20v1.2.0.mcpack"
+          }
+        ]
+      },
+      {
+        "version": "1.21.81",
+        "fecha": "2025-09-05",
+        "notas": "DarkBlockGaming Dueño",
+        "etiquetas": [
+          "scripts"
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1757112674548-holefilleraddon.jpg"
+        ],
+        "descargas": [
+          {
+            "nombre": "1.21.81",
+            "url": "https://mediafilez.forgecdn.net/files/6608/546/Hole%20Filler%20Add-on%20v1.2.0.mcpack"
+          }
+        ]
+      }
+    ],
+    "id": 1757379289381
   }
 ]
