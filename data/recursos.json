@@ -869,5 +869,30 @@
       }
     ],
     "id": 1757701989198
+  },
+  {
+    "nombre": "HudV3",
+    "categoria": "MTA",
+    "descripcion": "este hud es super bonito totalmente gratis y editable 💥 “¿Quieres más mods, scripts y recursos top? Visita Overkill Studios y consigue todo lo mejor para tus servidores y proyectos. 🚀”",
+    "destacado": false,
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1757702109513-Grand_Theft_Auto_San_Andreas_Screenshot_2025.07.20_-_22.03.33.43.webp"
+    ],
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-12",
+        "notas": "no se el creador",
+        "descargas": [
+          {
+            "nombre": "hud",
+            "url": "https://cuty.io/aRJYNl"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      }
+    ],
+    "id": 1757702140417
   }
 ]
