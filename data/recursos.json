@@ -729,5 +729,30 @@
       }
     ],
     "id": 1757379472592
+  },
+  {
+    "nombre": "LOGIN V2",
+    "categoria": "MTA",
+    "descripcion": "Este recurso es un Login V2 para MTA San Andreas, originalmente de paga pero compartido gratis. Es un sistema de inicio de sesión ligero, sin errores reportados y con vista previa incluida.",
+    "destacado": false,
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1757685017861-mta-screen_2024-05-29_19-35-49.webp"
+    ],
+    "versiones": [
+      {
+        "version": "LOGIN V2",
+        "fecha": "2025-09-12",
+        "notas": "👤 CREADOR: DANGER FIRE YT",
+        "descargas": [
+          {
+            "nombre": "Login",
+            "url": "https://www.mediafire.com/file/g0hfyq5i5q0qik3/DANGERLogin.rar/file"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      }
+    ],
+    "id": 1757685036615
   }
 ]
