@@ -745,5 +745,30 @@
       }
     ],
     "id": 1757694374411
+  },
+  {
+    "nombre": " MAFIA-1",
+    "categoria": "MTA",
+    "descripcion": "(ACL: GANG1  esta ganga no es solo mapeo tan bien tiene script",
+    "destacado": false,
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1757700939826-Grand_Theft_Auto_San_Andreas_Screenshot_2023.07.07_-_03.27.40.20.webp"
+    ],
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-12",
+        "notas": "AUTOR:(NO tengo idea)",
+        "descargas": [
+          {
+            "nombre": "mafia ",
+            "url": "https://cuty.io/LRrZN"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      }
+    ],
+    "id": 1757700950557
   }
 ]
