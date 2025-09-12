@@ -461,35 +461,6 @@
     "id": 1757379318543
   },
   {
-    "nombre": "Mansión Elmhurst ",
-    "categoria": "Roblox",
-    "descripcion": "🏠 Tres plantas amplias con una distribución suave y optimizada 🛏️ 3 habitaciones completamente amuebladas 🛁 4 baños con estilo 🛋️ Acogedoras salas de estar perfectas para relajarse. 🖥️ Sala de oficina privada para mayor realismo. 🍽️ Elegante comedor y cocina moderna. 🏋️‍♂️ Área de gimnasio para completar el estilo de vida de lujo. 🌇 Balcón del segundo piso con vista 🔥 Terraza en la azotea con chimenea incorporada 🏊 Piscina al aire libre para un ambiente veraniego relajado 🖼️ Muebles decorativos y marcos de fotos para mayor realismo.",
-    "destacado": false,
-    "versiones": [
-      {
-        "version": "v1.0",
-        "fecha": "2025-09-05",
-        "notas": " IPonyx Dueño",
-        "etiquetas": [
-          "mapeos"
-        ],
-        "imagenes": [
-          "https://raw.githubusercontent.com/andersonculero/Roblox/main/assets/img/1757115795080-1836001-a42abe047518b015e4ab8fca771341ec.webp",
-          "https://raw.githubusercontent.com/andersonculero/Roblox/main/assets/img/1757115872729-1836003-810b9d8276fa84ff036af65b13c83c0a.webp",
-          "https://raw.githubusercontent.com/andersonculero/Roblox/main/assets/img/1757115961916-1499145-4930eeb610ac4e333502d2030202ce98.webp",
-          "https://raw.githubusercontent.com/andersonculero/Roblox/main/assets/img/1757115973261-1499153-0a45dcb3ef6079e950145ce249e4fdf1.webp"
-        ],
-        "descargas": [
-          {
-            "nombre": "v1.0",
-            "url": "https://builtbybit.com/resources/elmhurst-mansion.73698/download"
-          }
-        ]
-      }
-    ],
-    "id": 1757379334507
-  },
-  {
     "nombre": "LOGIN Con video",
     "categoria": "MTA",
     "descripcion": "Es un login con video para MTA San Andreas, ligero y moderno, que permite personalizar la pantalla de inicio añadiendo música mediante un código mostrado en la imagen de referencia.",
