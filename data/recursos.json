@@ -729,30 +729,5 @@
       }
     ],
     "id": 1757379472592
-  },
-  {
-    "nombre": "admin",
-    "categoria": "Roblox",
-    "descripcion": "paraprobar como funciona",
-    "destacado": true,
-    "imagenes": [
-      "https://raw.githubusercontent.com/andersonculero/Roblox/main/assets/img/1757381707563-download.jpg"
-    ],
-    "versiones": [
-      {
-        "version": "1",
-        "fecha": "2025-09-09",
-        "notas": "hola",
-        "descargas": [
-          {
-            "nombre": "1",
-            "url": "https://raw.githubusercontent.com/andersonculero/Roblox/main/assets/img/1757381707563-download.jpg"
-          }
-        ],
-        "imagenes": [],
-        "etiquetas": []
-      }
-    ],
-    "id": 1757381726668
   }
 ]
