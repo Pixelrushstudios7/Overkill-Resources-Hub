@@ -793,5 +793,30 @@
       }
     ],
     "id": 1757701255515
+  },
+  {
+    "nombre": "Velocimetro",
+    "categoria": "MTA",
+    "descripcion": "💥 “¿Quieres más mods, scripts y recursos top? Visita Overkill Studios y consigue todo lo mejor para tus servidores y proyectos. 🚀”",
+    "destacado": true,
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1757701579909-image.webp"
+    ],
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-12",
+        "notas": "no se el creador",
+        "descargas": [
+          {
+            "nombre": "velocimetro",
+            "url": "https://cuty.io/R9kK60G"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      }
+    ],
+    "id": 1757701621709
   }
 ]
