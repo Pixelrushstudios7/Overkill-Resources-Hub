@@ -595,5 +595,84 @@
       }
     ],
     "id": 1757691145050
+  },
+  {
+    "nombre": "Parkour Effects Mapa",
+    "categoria": "Minecraft",
+    "descripcion": "Adéntrate en un mundo lleno de emoción con Parkour effects Mapa que te llevará en un emocionante recorrido a través de parkours que tendrán un añadido extra que son los efectos de pociones. Este mapa ofrece un giro único, donde las pociones hacen que aumente la dificultad a la hora de dar saltos.  Cada efecto tiene un color definido, una vez estés en algún bloque de color se te aplicará el efecto, debes aprenderte los colores y los efectos de cada uno para que no te tomen por sorpresa.",
+    "destacado": false,
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1757691283422-Parkour-effects-Mapa-3.jpg",
+      "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1757691300553-Parkour-effects-Mapa-2.jpg",
+      "https://zonacraft.net/wp-content/uploads/2023/08/parkour-384x216.png"
+    ],
+    "versiones": [
+      {
+        "version": "1.21.x",
+        "fecha": "2025-09-05",
+        "notas": "Creado por noxgame1230",
+        "descargas": [
+          {
+            "nombre": "1.21.x",
+            "url": "https://cuty.io/C9kQYK"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      },
+      {
+        "version": "1.20.x",
+        "fecha": "2025-09-05",
+        "notas": "Creado por noxgame1230",
+        "descargas": [
+          {
+            "nombre": "1.20.x",
+            "url": "https://cuty.io/QjbyHwSpZ"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      },
+      {
+        "version": "1.19.4",
+        "fecha": "2025-09-05",
+        "notas": "Creado por noxgame1230",
+        "descargas": [
+          {
+            "nombre": "1.19.4",
+            "url": "https://cuty.io/ZJwja"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      },
+      {
+        "version": "1.18.2",
+        "fecha": "2025-09-05",
+        "notas": "Creado por noxgame1230",
+        "descargas": [
+          {
+            "nombre": "1.18.2",
+            "url": "https://cuty.io/tlkcxro3AXx"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      },
+      {
+        "version": "1.17.1",
+        "fecha": "2025-09-05",
+        "notas": "Creado por noxgame1230",
+        "descargas": [
+          {
+            "nombre": "1.17.1",
+            "url": "https://cuty.io/HHYmglS30P"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      }
+    ],
+    "id": 1757691330377
   }
 ]
