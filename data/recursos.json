@@ -779,28 +779,5 @@
       }
     ],
     "id": 1757685438766
-  },
-  {
-    "nombre": "LOGIN Con video",
-    "categoria": "MTA",
-    "descripcion": "Es un login con video para MTA San Andreas, ligero y moderno, que permite personalizar la pantalla de inicio añadiendo música mediante un código mostrado en la imagen de referencia.",
-    "destacado": false,
-    "imagenes": [],
-    "versiones": [
-      {
-        "version": "v1",
-        "fecha": "2025-09-12",
-        "notas": "👤 CREADOR:DANGER FIRE YT",
-        "descargas": [
-          {
-            "nombre": "login",
-            "url": "https://cuty.io/jExor1zbx7K"
-          }
-        ],
-        "imagenes": [],
-        "etiquetas": []
-      }
-    ],
-    "id": 1757685744347
   }
 ]
