@@ -432,35 +432,6 @@
     "id": 1757379308031
   },
   {
-    "nombre": "FREE City of Anubis Egyptian Map ",
-    "categoria": "Roblox",
-    "descripcion": "Mapa inmersivo de temática egipcia Templos y ruinas antiguas Paisaje desértico expansivo Tumbas y secretos ocultos Activos listos para usar Entorno detallado Personalización flexible Optimizado para el rendimiento",
-    "destacado": true,
-    "versiones": [
-      {
-        "version": "v2",
-        "fecha": "2025-09-05",
-        "notas": " Estudios Bz1 Dueño",
-        "etiquetas": [
-          "mapeos"
-        ],
-        "imagenes": [
-          "https://raw.githubusercontent.com/andersonculero/Roblox/main/assets/img/1757114840316-1715276-6649115fcef819187f487a810f0e7d97.webp",
-          "https://raw.githubusercontent.com/andersonculero/Roblox/main/assets/img/1757114857166-1715268-dd367ddaf6d0b852ef71242f761cbc27.webp",
-          "https://raw.githubusercontent.com/andersonculero/Roblox/main/assets/img/1757114873709-1715267-17be26f27861e958b32db0154c9632ea.webp",
-          "https://raw.githubusercontent.com/andersonculero/Roblox/main/assets/img/1757114890616-1715266-ca0e523cf40e6deed593e6dc074f0b24.webp"
-        ],
-        "descargas": [
-          {
-            "nombre": "v2",
-            "url": "https://builtbybit.com/resources/free-city-of-anubis-egyptian-map.57923/download"
-          }
-        ]
-      }
-    ],
-    "id": 1757379318543
-  },
-  {
     "nombre": "LOGIN Con video",
     "categoria": "MTA",
     "descripcion": "Es un login con video para MTA San Andreas, ligero y moderno, que permite personalizar la pantalla de inicio añadiendo música mediante un código mostrado en la imagen de referencia.",
