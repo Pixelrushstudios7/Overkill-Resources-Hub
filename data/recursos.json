@@ -773,5 +773,28 @@
       }
     ],
     "id": 1757685877843
+  },
+  {
+    "nombre": "MAP CONCESIONARIA + SISTEMA ",
+    "categoria": "MTA",
+    "descripcion": "El mod MAP CONCESIONARIA + SISTEMA está diseñado para ofrecer una experiencia de juego más completa y realista, incorporando un mapa de concesionaria totalmente funcional junto con un sistema integrado que permite interactuar con los vehículos de manera más organizada y práctica. Este recurso es ideal para jugadores que buscan gestionar, personalizar y explorar vehículos dentro del juego, creando un entorno mucho más dinámico y atractivo.",
+    "destacado": true,
+    "imagenes": [],
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-07",
+        "notas": "👤 CREADOR:DANGER FIRE YT",
+        "descargas": [
+          {
+            "nombre": "v1",
+            "url": "https://cuty.io/UA0XEfA"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      }
+    ],
+    "id": 1757690250650
   }
 ]
