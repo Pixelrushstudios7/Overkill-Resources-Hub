@@ -618,5 +618,83 @@
       }
     ],
     "id": 1757690961181
+  },
+  {
+    "nombre": "Más perspectivas de la cámara",
+    "categoria": "Minecraft",
+    "descripcion": "Minecraft viene con solo tres perspectivas de cámara básicas que funcionan, pero para los jugadores que buscan creatividad cinematográfica, eso no es suficiente.  Ahí es donde entra en juego este complemento. Introduce una amplia gama de perspectivas de cámara dinámicas y personalizables, perfectas para creadores, constructores, exploradores y jugadores ocasionales por igual.  En la versión 3.2.0 de este complemento, hay un total de 12 tipos de cámara diferentes, cada uno con múltiples perspectivas. Por ejemplo, el primer tipo de cámara (Espalda Dinámica en Tercera Persona) incluye más de 12 perspectivas. También puedes crear tu propia perspectiva dinámica en tercera persona con todas las personalizaciones.  Entonces, si contamos todas las perspectivas de cámara de los 12 tipos, el total asciende a más de 30. Y como cada perspectiva es totalmente personalizable, este complemento técnicamente añade un número incontable de perspectivas de cámara.  Todos tus datos de personalización se guardan de forma permanente, por lo que tus configuraciones nunca se perderán.",
+    "destacado": false,
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1757691126937-coverth-jpg.jpg",
+      "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1757691137318-more-cam-pers-16-9-jpg.jpg"
+    ],
+    "versiones": [
+      {
+        "version": "1.21.90",
+        "fecha": "2025-09-05",
+        "notas": "DarkBlockGaming Dueño",
+        "descargas": [
+          {
+            "nombre": "1.21.90",
+            "url": "https://cuty.io/o1JCqm8d"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      },
+      {
+        "version": "1.21.82",
+        "fecha": "2025-09-05",
+        "notas": "DarkBlockGaming Dueño",
+        "descargas": [
+          {
+            "nombre": "1.21.82",
+            "url": "https://cuty.io/o1JCqm8d"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      },
+      {
+        "version": "1.21.81",
+        "fecha": "2025-09-05",
+        "notas": "DarkBlockGaming Dueño",
+        "descargas": [
+          {
+            "nombre": "1.21.81",
+            "url": "https://cuty.io/14MnfTanZ8"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      },
+      {
+        "version": " 1.21.80",
+        "fecha": "2025-09-05",
+        "notas": "DarkBlockGaming Dueño",
+        "descargas": [
+          {
+            "nombre": " 1.21.80",
+            "url": "https://cuty.io/14MnfTanZ8"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      },
+      {
+        "version": "1.21.70",
+        "fecha": "2025-09-05",
+        "notas": "DarkBlockGaming Dueño",
+        "descargas": [
+          {
+            "nombre": "1.21.70",
+            "url": "https://cuty.io/0Xu7H"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      }
+    ],
+    "id": 1757691145050
   }
 ]
