@@ -755,5 +755,28 @@
       }
     ],
     "id": 1757690411328
+  },
+  {
+    "nombre": "Sistema de Mini Map para Roblox",
+    "categoria": "Roblox",
+    "descripcion": "El Sistema de Mini Map es un script gratuito para Roblox que añade un minimapa interactivo dentro de tu juego. Este recurso permite a los jugadores orientarse fácilmente en el mapa, mostrando su posición actual y los alrededores en tiempo real.  Es altamente personalizable, por lo que puedes decidir su estilo, tamaño, ubicación en pantalla e incluso qué elementos o zonas aparecen visibles en el minimapa. Ideal para juegos de exploración, aventuras, mundos abiertos o simuladores donde la navegación es clave.  Gracias a su diseño flexible, se adapta a distintos géneros de juegos y puede convertirse en una herramienta esencial para mejorar la jugabilidad y la experiencia de los jugadores.El Sistema de Mini Map es un script gratuito para Roblox que añade un minimapa interactivo dentro de tu juego. Este recurso permite a los jugadores orientarse fácilmente en el mapa, mostrando su posición actual y los alrededores en tiempo real.  Es altamente personalizable, por lo que puedes decidir su estilo, tamaño, ubicación en pantalla e incluso qué elementos o zonas aparecen visibles en el minimapa. Ideal para juegos de exploración, aventuras, mundos abiertos o simuladores donde la navegación es clave.  Gracias a su diseño flexible, se adapta a distintos géneros de juegos y puede convertirse en una herramienta esencial para mejorar la jugabilidad y la experiencia de los jugadores.",
+    "destacado": false,
+    "imagenes": [],
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-07",
+        "notas": "👤 CREADOR:Picante",
+        "descargas": [
+          {
+            "nombre": "v1",
+            "url": "https://cuty.io/UkZ30UDVrPS"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      }
+    ],
+    "id": 1757690452826
   }
 ]
