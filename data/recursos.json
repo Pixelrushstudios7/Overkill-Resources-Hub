@@ -672,5 +672,30 @@
       }
     ],
     "id": 1757691419051
+  },
+  {
+    "nombre": "LOGIN Con video",
+    "categoria": "MTA",
+    "descripcion": "Es un login con video para MTA San Andreas, ligero y de estilo moderno, cuya instalación y correcto funcionamiento requieren seguir un tutorial en YouTube indicado en el enlace de la descripción.",
+    "destacado": false,
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1757693677807-Grand_Theft_Auto_San_Andreas_Screenshot_2025.07.20_-_21.56.20.90.webp"
+    ],
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-12",
+        "notas": "",
+        "descargas": [
+          {
+            "nombre": "login",
+            "url": "https://cuty.io/Lmua4v"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      }
+    ],
+    "id": 1757693692472
   }
 ]
