@@ -818,5 +818,30 @@
       }
     ],
     "id": 1757701621709
+  },
+  {
+    "nombre": "HUD",
+    "categoria": "MTA",
+    "descripcion": "💥 “¿Quieres más mods, scripts y recursos top? Visita Overkill Studios y consigue todo lo mejor para tus servidores y proyectos. 🚀”",
+    "destacado": true,
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1757701732575-Grand_Theft_Auto_San_Andreas_Screenshot_2024.04.15_-_00.08.46.59.webp"
+    ],
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-12",
+        "notas": "nose el creador",
+        "descargas": [
+          {
+            "nombre": "hub",
+            "url": "https://cuty.io/ffOwvdWwI"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      }
+    ],
+    "id": 1757701760684
   }
 ]
