@@ -638,5 +638,80 @@
       }
     ],
     "id": 1757690792352
+  },
+  {
+    "nombre": "Sprint Racer Mapa",
+    "categoria": "Minecraft",
+    "descripcion": "¡Prepárate para la emoción de las carreras de combate con Sprint Racer! Este Mapa te ofrece una experiencia de juego única y emocionante. Es tan bueno que ha sido oficialmente incluido en Java Minecraft Realms.  Sprint Racer es un mapa muy cuidado en cuanto a su desarrollo, lo que nos garantiza una experiencia de juego muy buena, soporta cualquier número de jugadores, desde 1 hasta infinito, podrás competir contra tus amigos en increíbles modos de carrera y batalla.  El mapa cuenta con 50 pistas de carreras y 18 arenas de batalla, asegurando horas de diversión y emoción sin límites. Además, agrega 20 artículos que te brindarán una ventaja estratégica durante las competiciones.",
+    "destacado": true,
+    "imagenes": [],
+    "versiones": [
+      {
+        "version": "1.21.8",
+        "fecha": "2025-09-05",
+        "notas": "Descargalo ya",
+        "descargas": [
+          {
+            "nombre": "1.21.8",
+            "url": "https://cuty.io/SqggUeQXztv"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      },
+      {
+        "version": "1.20.4",
+        "fecha": "2025-09-05",
+        "notas": "Descargalo ya",
+        "descargas": [
+          {
+            "nombre": "1.20.4",
+            "url": "https://cuty.io/Z0zoVbY"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      },
+      {
+        "version": "1.19.3",
+        "fecha": "2025-09-05",
+        "notas": "Descargalo ya",
+        "descargas": [
+          {
+            "nombre": "1.19.3",
+            "url": "https://cuty.io/hmlj7v94Nu"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      },
+      {
+        "version": "1.18.2",
+        "fecha": "2025-09-05",
+        "notas": "Descargalo ya",
+        "descargas": [
+          {
+            "nombre": "1.18.2",
+            "url": "https://cuty.io/vttIly0KJ"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      },
+      {
+        "version": "1.17.1",
+        "fecha": "2025-09-05",
+        "notas": "Descargalo ya",
+        "descargas": [
+          {
+            "nombre": "1.17.1",
+            "url": "https://cuty.io/xTBXqr"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      }
+    ],
+    "id": 1757690961181
   }
 ]
