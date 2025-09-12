@@ -625,30 +625,6 @@
     "id": 1757379420388
   },
   {
-    "nombre": "Scoreboard para mta",
-    "categoria": "MTA",
-    "descripcion": "El Scoreboard es un mod que añade un sistema de marcador avanzado al juego, pensado para mejorar la organización y la competitividad entre los jugadores. Con este recurso podrás visualizar de manera clara y ordenada toda la información relacionada con las partidas, como estadísticas, puntuaciones, posiciones y otros datos útiles que hacen la experiencia mucho más completa.  Su diseño está enfocado en ser ligero y funcional, lo que significa que apenas ocupa espacio en tu dispositivo y no afecta el rendimiento del juego. Además, cuenta con una imagen de referencia, lo que te permitirá ver cómo luce el marcador dentro del juego antes de instalarlo.",
-    "destacado": false,
-    "versiones": [
-      {
-        "version": "v1",
-        "fecha": "2025-09-07",
-        "notas": "👤 CREADOR:DANGER FIRE YT",
-        "etiquetas": [],
-        "imagenes": [
-          "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1757283370728-Grand_Theft_Auto_San_Andreas_Screenshot_2025.08.05_-_11.52.49.65.webp"
-        ],
-        "descargas": [
-          {
-            "nombre": "v1",
-            "url": "https://www.mediafire.com/file/2g024do2hagooc5/Scoreboard.rar/file"
-          }
-        ]
-      }
-    ],
-    "id": 1757379433630
-  },
-  {
     "nombre": "LOGIN Con video",
     "categoria": "MTA",
     "descripcion": "Es un login con video para MTA San Andreas, ligero y moderno, que permite personalizar la pantalla de inicio añadiendo música mediante un código mostrado en la imagen de referencia.",
