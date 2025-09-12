@@ -843,5 +843,31 @@
       }
     ],
     "id": 1757701760684
+  },
+  {
+    "nombre": "hud ",
+    "categoria": "MTA",
+    "descripcion": "el hud se configura en archivo config le puedes cambiar lo que quieras 💥 “¿Quieres más mods, scripts y recursos top? Visita Overkill Studios y consigue todo lo mejor para tus servidores y proyectos. 🚀” ",
+    "destacado": false,
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1757701890080-Grand_Theft_Auto_San_Andreas_Screenshot_2024.07.23_-_12.27.15.15.webp",
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1757701898204-Grand_Theft_Auto_San_Andreas_Screenshot_2024.07.23_-_12.27.28.98.webp"
+    ],
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-12",
+        "notas": "nose el creador",
+        "descargas": [
+          {
+            "nombre": "hud",
+            "url": "https://cuty.io/xz2r"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      }
+    ],
+    "id": 1757701989198
   }
 ]
