@@ -749,5 +749,28 @@
       }
     ],
     "id": 1757690452826
+  },
+  {
+    "nombre": "Sistema de Clima para roblox",
+    "categoria": "Roblox",
+    "descripcion": "Este recurso es un sistema de clima dinámico para Roblox, totalmente gratuito y adaptable a cualquier proyecto. Permite añadir efectos realistas como lluvia, tormentas, neblina, soleado y más, dándole mayor inmersión y realismo a tus juegos.  Su principal ventaja es la flexibilidad: tú decides cómo y dónde aplicarlo, ya sea en mapas de rol, aventuras, simuladores o cualquier tipo de experiencia. Además, al estar desarrollado en script, se puede modificar y personalizar según tus necesidades.  ✨ Ideal para quienes buscan agregar un toque profesional y envolvente a sus creaciones sin costo alguno.",
+    "destacado": true,
+    "imagenes": [],
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-06",
+        "notas": "👤 CREADOR: Picante",
+        "descargas": [
+          {
+            "nombre": "V1",
+            "url": "https://cuty.io/C2MZak6ago"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      }
+    ],
+    "id": 1757690481003
   }
 ]
