@@ -765,5 +765,28 @@
       }
     ],
     "id": 1757690350372
+  },
+  {
+    "nombre": "Panel Vehiculo para mta",
+    "categoria": "MTA",
+    "descripcion": "El Panel Vehículo es un mod diseñado para mejorar la experiencia de juego al ofrecer un sistema avanzado y práctico de control sobre los vehículos dentro del juego. Con este panel podrás administrar y visualizar funciones clave de tu vehículo, lo que facilita el manejo, la organización y la personalización mientras juegas.  Este recurso está pensado para ser ligero, por lo que no consume demasiado espacio ni afecta el rendimiento general del dispositivo. Además, incluye una imagen de referencia para que los jugadores sepan de antemano cómo se verá y qué características ofrece dentro del entorno del juego.",
+    "destacado": true,
+    "imagenes": [],
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-07",
+        "notas": "👤 CREADOR:DANGER FIRE YT",
+        "descargas": [
+          {
+            "nombre": "v1",
+            "url": "https://cuty.io/3Ifi"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      }
+    ],
+    "id": 1757690382487
   }
 ]
