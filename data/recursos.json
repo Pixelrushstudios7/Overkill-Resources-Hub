@@ -770,5 +770,28 @@
       }
     ],
     "id": 1757700950557
+  },
+  {
+    "nombre": " MAFIA-2",
+    "categoria": "MTA",
+    "descripcion": "(ACL: GANG2 | la ubicacion la puedes pedir al privado al contacto  ",
+    "destacado": false,
+    "imagenes": [],
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-12",
+        "notas": "AUTOR:(NO SE)",
+        "descargas": [
+          {
+            "nombre": "ganga",
+            "url": "https://cuty.io/9lEfs"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      }
+    ],
+    "id": 1757701255515
   }
 ]
