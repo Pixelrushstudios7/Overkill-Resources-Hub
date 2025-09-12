@@ -754,5 +754,30 @@
       }
     ],
     "id": 1757685036615
+  },
+  {
+    "nombre": "LOGIN Moderno",
+    "categoria": "MTA",
+    "descripcion": "Es un login moderno para MTA San Andreas, ligero y personalizable, que permite añadir música de fondo mediante enlaces de Discord.",
+    "destacado": false,
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1757685393709-mta-screen_2024-06-07_13-14-40.webp"
+    ],
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-12",
+        "notas": "👤 CREADOR: DANGER FIRE YT",
+        "descargas": [
+          {
+            "nombre": "login",
+            "url": "https://www.mediafire.com/file/tbfwxf7svp4x0u1/Login-Moderno.rar/file"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      }
+    ],
+    "id": 1757685438766
   }
 ]
