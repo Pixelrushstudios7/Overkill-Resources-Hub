@@ -697,5 +697,28 @@
       }
     ],
     "id": 1757693692472
+  },
+  {
+    "nombre": "MSTRadar",
+    "categoria": "MTA",
+    "descripcion": "Es un mapa para MTA San Andreas creado por MELOSO 98, publicado el 20/09/22, identificado bajo el modelo RADAL y con un peso de 8.44 MB.",
+    "destacado": false,
+    "imagenes": [],
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-12",
+        "notas": "creado por MELOSO 98",
+        "descargas": [
+          {
+            "nombre": "radar",
+            "url": "https://cuty.io/jXLWWuQmre"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      }
+    ],
+    "id": 1757693921703
   }
 ]
