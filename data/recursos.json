@@ -677,5 +677,67 @@
       }
     ],
     "id": 1757690692819
+  },
+  {
+    "nombre": "Complemento de relleno de agujeros",
+    "categoria": "Minecraft",
+    "descripcion": "El complemento Rellenador de Agujeros introduce un nuevo objeto en Minecraft Bedrock Edition, diseñado para rellenar al instante los agujeros creados por explosiones de TNT, creepers y otros tipos de destrucción. Simplemente lanza el Rellenador de Agujeros en cualquier cráter y llenará rápidamente el espacio con bloques.",
+    "destacado": false,
+    "imagenes": [],
+    "versiones": [
+      {
+        "version": "1.21.100",
+        "fecha": "2025-09-05",
+        "notas": "DarkBlockGaming Dueño",
+        "descargas": [
+          {
+            "nombre": "1.21.100",
+            "url": "https://cuty.io/Mtxj8939"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      },
+      {
+        "version": " 1.21.90",
+        "fecha": "2025-09-05",
+        "notas": "DarkBlockGaming Dueño",
+        "descargas": [
+          {
+            "nombre": " 1.21.90",
+            "url": "https://cuty.io/rjIQE"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      },
+      {
+        "version": "1.21.82",
+        "fecha": "2025-09-05",
+        "notas": "DarkBlockGaming Dueño",
+        "descargas": [
+          {
+            "nombre": "1.21.82",
+            "url": "https://cuty.io/1uCO4"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      },
+      {
+        "version": "1.21.81",
+        "fecha": "2025-09-05",
+        "notas": "DarkBlockGaming Dueño",
+        "descargas": [
+          {
+            "nombre": "1.21.81",
+            "url": "https://cuty.io/1uCO4"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      }
+    ],
+    "id": 1757690792352
   }
 ]
