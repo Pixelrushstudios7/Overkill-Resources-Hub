@@ -766,5 +766,28 @@
       }
     ],
     "id": 1757690320908
+  },
+  {
+    "nombre": "iPhone 15 Con llamada para mta",
+    "categoria": "MTA",
+    "descripcion": "Este recurso es un mod especial del iPhone 15 con llamada pensado para quienes buscan personalizar y darle un toque único a su experiencia dentro del juego. Al instalarlo, los jugadores podrán disfrutar de un teléfono de última generación totalmente integrado, que incluye la función de llamada para hacerlo más realista y llamativo.  El mod ha sido diseñado para ser ligero, por lo que no ocupará demasiado espacio en tu dispositivo, permitiendo que se pueda instalar sin afectar el rendimiento general del juego. Además, viene acompañado de un video tutorial en YouTube, donde se explican todos los pasos necesarios para que la instalación funcione correctamente, evitando errores comunes.",
+    "destacado": true,
+    "imagenes": [],
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-07",
+        "notas": "👤 CREADOR:DANGER FIRE YT",
+        "descargas": [
+          {
+            "nombre": "v1",
+            "url": "https://cuty.io/JZ5l8Fnj"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      }
+    ],
+    "id": 1757690350372
   }
 ]
