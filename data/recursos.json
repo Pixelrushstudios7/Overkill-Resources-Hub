@@ -919,5 +919,31 @@
       }
     ],
     "id": 1757702481586
+  },
+  {
+    "nombre": "PACK SKIN",
+    "categoria": "MTA",
+    "descripcion": "pack de skin con los id 💥 “¿Quieres más mods, scripts y recursos top? Visita Overkill Studios y consigue todo lo mejor para tus servidores y proyectos. 🚀”",
+    "destacado": false,
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1757702657667-Grand_Theft_Auto_San_Andreas_Screenshot_2024.04.17_-_18.11.25.44.webp",
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1757702667775-Imagen_de_WhatsApp_2024-04-17_a_las_18.34.00_51f597aa.webp"
+    ],
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-12",
+        "notas": "no se el creador",
+        "descargas": [
+          {
+            "nombre": "pack skin",
+            "url": "https://cuty.io/T6u2Uc4H"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      }
+    ],
+    "id": 1757702691771
   }
 ]
