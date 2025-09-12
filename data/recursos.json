@@ -769,5 +769,28 @@
       }
     ],
     "id": 1757690280765
+  },
+  {
+    "nombre": "Scoreboard para mta",
+    "categoria": "MTA",
+    "descripcion": "El Scoreboard es un mod que añade un sistema de marcador avanzado al juego, pensado para mejorar la organización y la competitividad entre los jugadores. Con este recurso podrás visualizar de manera clara y ordenada toda la información relacionada con las partidas, como estadísticas, puntuaciones, posiciones y otros datos útiles que hacen la experiencia mucho más completa.  Su diseño está enfocado en ser ligero y funcional, lo que significa que apenas ocupa espacio en tu dispositivo y no afecta el rendimiento del juego. Además, cuenta con una imagen de referencia, lo que te permitirá ver cómo luce el marcador dentro del juego antes de instalarlo.",
+    "destacado": false,
+    "imagenes": [],
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-07",
+        "notas": "👤 CREADOR:DANGER FIRE YT",
+        "descargas": [
+          {
+            "nombre": "v1",
+            "url": "https://cuty.io/lUu4m"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      }
+    ],
+    "id": 1757690320908
   }
 ]
