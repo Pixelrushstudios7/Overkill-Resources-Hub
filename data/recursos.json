@@ -722,5 +722,28 @@
       }
     ],
     "id": 1757693965222
+  },
+  {
+    "nombre": "hud_radar",
+    "categoria": "MTA",
+    "descripcion": "Es un recurso de radar para MTA San Andreas, subido por la comunidad DANGER FIRE YT, ligero en tamaño, con vista previa incluida y con un tutorial disponible en YouTube para su instalación y uso.",
+    "destacado": false,
+    "imagenes": [],
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-12",
+        "notas": "Creado por: DANGER FIRE YT",
+        "descargas": [
+          {
+            "nombre": "radar",
+            "url": "https://cuty.io/y7IMJ8PKM71"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      }
+    ],
+    "id": 1757694374411
   }
 ]
