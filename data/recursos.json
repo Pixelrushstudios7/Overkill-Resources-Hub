@@ -969,5 +969,27 @@
       }
     ],
     "id": 1757772623188
+  },
+  {
+    "nombre": "",
+    "categoria": "",
+    "descripcion": "",
+    "imagenes": [],
+    "versiones": [
+      {
+        "version": "577",
+        "fecha": "2025-09-13",
+        "notas": "hvvhv",
+        "descargas": [
+          {
+            "nombre": "kjnj",
+            "url": "https://github.com/Pixelrushstudios7/Overkill-Resources-Hub/blob/main/data/recursos.json"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      }
+    ],
+    "id": 1757772624154
   }
 ]
