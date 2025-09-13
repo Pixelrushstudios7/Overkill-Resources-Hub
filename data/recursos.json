@@ -1051,5 +1051,27 @@
       }
     ],
     "id": 1757727302068
+  },
+  {
+    "nombre": "Click mause",
+    "categoria": "Roblox",
+    "descripcion": "Este recurso es un Login V2 para MTA San Andreas, originalmente de paga pero compartido gratis. Es un sistema de inicio de sesión ligero, sin errores reportados y con vista previa incluida.",
+    "imagenes": [],
+    "versiones": [
+      {
+        "version": "678",
+        "fecha": "2025-09-13",
+        "notas": "bkbk",
+        "descargas": [
+          {
+            "nombre": "kknkln",
+            "url": "https://github.com"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      }
+    ],
+    "id": 1757772407848
   }
 ]
