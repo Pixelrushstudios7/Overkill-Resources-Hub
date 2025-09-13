@@ -1,28 +1,5 @@
 [
   {
-    "nombre": "MECANICO",
-    "categoria": "MTA",
-    "descripcion": "MECÁNICO está diseñado para ofrecer una experiencia más realista y completa dentro del juego, permitiendo a los jugadores interactuar con los vehículos de manera avanzada, realizar ajustes, reparaciones o mejoras, y gestionar todas las funciones mecánicas desde un sistema integrado. Este recurso es ideal para quienes desean añadir un nivel extra de inmersión y personalización, convirtiendo la experiencia de juego en algo mucho más dinámico y entretenido.",
-    "destacado": true,
-    "imagenes": [],
-    "versiones": [
-      {
-        "version": "v1",
-        "fecha": "2025-09-07",
-        "notas": "👤 CREADOR:DANGER FIRE YT",
-        "descargas": [
-          {
-            "nombre": "v1",
-            "url": "https://cuty.io/0k2LfRoo"
-          }
-        ],
-        "imagenes": [],
-        "etiquetas": []
-      }
-    ],
-    "id": 1757685877843
-  },
-  {
     "nombre": "MAP CONCESIONARIA + SISTEMA ",
     "categoria": "MTA",
     "descripcion": "El mod MAP CONCESIONARIA + SISTEMA está diseñado para ofrecer una experiencia de juego más completa y realista, incorporando un mapa de concesionaria totalmente funcional junto con un sistema integrado que permite interactuar con los vehículos de manera más organizada y práctica. Este recurso es ideal para jugadores que buscan gestionar, personalizar y explorar vehículos dentro del juego, creando un entorno mucho más dinámico y atractivo.",
