@@ -1,30 +1,5 @@
 [
   {
-    "nombre": "LOGIN V2",
-    "categoria": "MTA",
-    "descripcion": "Este recurso es un Login V2 para MTA San Andreas, originalmente de paga pero compartido gratis. Es un sistema de inicio de sesión ligero, sin errores reportados y con vista previa incluida.",
-    "destacado": false,
-    "imagenes": [
-      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1757685017861-mta-screen_2024-05-29_19-35-49.webp"
-    ],
-    "versiones": [
-      {
-        "version": "LOGIN V2",
-        "fecha": "2025-09-12",
-        "notas": "👤 CREADOR: DANGER FIRE YT",
-        "descargas": [
-          {
-            "nombre": "Login",
-            "url": "https://cuty.io/3jcUDo"
-          }
-        ],
-        "imagene": [],
-        "etiquetas": []
-      }
-    ],
-    "id": 1757685853305
-  },
-  {
     "nombre": "MECANICO",
     "categoria": "MTA",
     "descripcion": "MECÁNICO está diseñado para ofrecer una experiencia más realista y completa dentro del juego, permitiendo a los jugadores interactuar con los vehículos de manera avanzada, realizar ajustes, reparaciones o mejoras, y gestionar todas las funciones mecánicas desde un sistema integrado. Este recurso es ideal para quienes desean añadir un nivel extra de inmersión y personalización, convirtiendo la experiencia de juego en algo mucho más dinámico y entretenido.",
