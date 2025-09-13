@@ -972,5 +972,32 @@
       }
     ],
     "id": 1757723240049
+  },
+  {
+    "nombre": "LOGIN Con video",
+    "categoria": "MTA",
+    "descripcion": "Es un login con video para MTA San Andreas, ligero y moderno, que permite personalizar la pantalla de inicio añadiendo música mediante un código mostrado en la imagen de referencia.",
+    "destacado": false,
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1757685765040-Grand_Theft_Auto_San_Andreas_Screenshot_2025.07.03_-_11.34.20.11.webp",
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1757685781508-image.webp",
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1757685790714-image.webp"
+    ],
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-12",
+        "notas": "👤 CREADOR:DANGER FIRE YT",
+        "descargas": [
+          {
+            "nombre": "login",
+            "url": "https://cuty.io/jExor1zbx7K"
+          }
+        ],
+        "imagenes": [],
+        "etiquetas": []
+      }
+    ],
+    "id": 1757723259226
   }
 ]
