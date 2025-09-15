@@ -80,29 +80,6 @@
     "id": 1757962036218
   },
   {
-    "nombre": "PARQUE + PANTALLA para mta",
-    "categoria": "MTA",
-    "descripcion": "El mod PARQUE + PANTALLA está diseñado para mejorar y expandir la experiencia visual y de interacción dentro del juego, añadiendo un parque completo acompañado de una pantalla integrada que puede mostrar información, animaciones o contenido dentro del entorno. Este recurso permite a los jugadores disfrutar de un espacio más inmersivo y dinámico, ideal para quienes buscan personalizar sus partidas con detalles realistas y llamativos.  A pesar de sus funcionalidades, el mod es ligero, por lo que no ocupa demasiado espacio ni afecta el rendimiento del juego. Incluye además una imagen de referencia, permitiendo a los usuarios visualizar cómo lucirá el parque y la pantalla antes de instalarlo.",
-    "destacado": true,
-    "imagenes": [],
-    "versiones": [
-      {
-        "version": "v1",
-        "fecha": "2025-09-07",
-        "notas": "👤 CREADOR:DANGER FIRE YT",
-        "descargas": [
-          {
-            "nombre": "v1",
-            "url": "https://cuty.io/qz2ueEO359BQ"
-          }
-        ],
-        "imagenes": [],
-        "etiquetas": []
-      }
-    ],
-    "id": 1757690280765
-  },
-  {
     "nombre": "Scoreboard para mta",
     "categoria": "MTA",
     "descripcion": "El Scoreboard es un mod que añade un sistema de marcador avanzado al juego, pensado para mejorar la organización y la competitividad entre los jugadores. Con este recurso podrás visualizar de manera clara y ordenada toda la información relacionada con las partidas, como estadísticas, puntuaciones, posiciones y otros datos útiles que hacen la experiencia mucho más completa.  Su diseño está enfocado en ser ligero y funcional, lo que significa que apenas ocupa espacio en tu dispositivo y no afecta el rendimiento del juego. Además, cuenta con una imagen de referencia, lo que te permitirá ver cómo luce el marcador dentro del juego antes de instalarlo.",
