@@ -1,5 +1,29 @@
 [
   {
+    "nombre": "PARQUE + PANTALLA para mta",
+    "categoria": "MTA",
+    "descripcion": "El mod PARQUE + PANTALLA está diseñado para mejorar y expandir la experiencia visual y de interacción dentro del juego, añadiendo un parque completo acompañado de una pantalla integrada que puede mostrar información, animaciones o contenido dentro del entorno. Este recurso permite a los jugadores disfrutar de un espacio más inmersivo y dinámico, ideal para quienes buscan personalizar sus partidas con detalles realistas y llamativos.  A pesar de sus funcionalidades, el mod es ligero, por lo que no ocupa demasiado espacio ni afecta el rendimiento del juego. Incluye además una imagen de referencia, permitiendo a los usuarios visualizar cómo lucirá el parque y la pantalla antes de instalarlo.",
+    "imagenes": [],
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-07",
+        "notas": "👤 CREADOR:DANGER FIRE YT",
+        "descargas": [
+          {
+            "nombre": "v1",
+            "url": "https://cuty.io/qz2ueEO359BQ"
+          }
+        ],
+        "etiquetas": [
+          "mapeos"
+        ],
+        "imagenes": []
+      }
+    ],
+    "id": 1757965114633
+  },
+  {
     "nombre": "COMISARIA",
     "categoria": "MTA",
     "descripcion": "💥 ¿Quieres llevar tus servidores y proyectos al siguiente nivel? En Overkill Studios tenemos los mejores mods, scripts y recursos top que necesitas para destacar y crear experiencias increíbles. 🚀  No te quedes atrás: 🎮 Suscríbete a nuestro canal de YouTube para tutoriales, novedades y contenido exclusivo. 📱 Síguenos en TikTok para tips rápidos, trucos y demostraciones. 💬 Únete a nuestro Discord y forma parte de la comunidad más activa, comparte tus proyectos y aprende de otros creadores.  🔗 ¡Todo lo que necesitas para tus servidores y proyectos está aquí, en Overkill Studios! No pierdas la oportunidad de ser parte de nuestra comunidad y mejorar tus creaciones como un verdadero profesional. ⚡",
