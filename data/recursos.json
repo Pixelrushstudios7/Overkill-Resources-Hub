@@ -1,4 +1,30 @@
 [
+   {
+    "nombre": "COMISARIA",
+    "categoria": "MTA",
+    "descripcion": "💥 ¿Quieres llevar tus servidores y proyectos al siguiente nivel? En Overkill Studios tenemos los mejores mods, scripts y recursos top que necesitas para destacar y crear experiencias increíbles. 🚀  No te quedes atrás: 🎮 Suscríbete a nuestro canal de YouTube para tutoriales, novedades y contenido exclusivo. 📱 Síguenos en TikTok para tips rápidos, trucos y demostraciones. 💬 Únete a nuestro Discord y forma parte de la comunidad más activa, comparte tus proyectos y aprende de otros creadores.  🔗 ¡Todo lo que necesitas para tus servidores y proyectos está aquí, en Overkill Studios! No pierdas la oportunidad de ser parte de nuestra comunidad y mejorar tus creaciones como un verdadero profesional. ⚡",
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1757962642338-Grand_Theft_Auto_San_Andreas_Screenshot_2025.07.20_-_14.49.11.36.webp"
+    ],
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-15",
+        "notas": "👤 CREADOR: DANGER FIRE YT",
+        "descargas": [
+          {
+            "nombre": "Comisaria",
+            "url": "https://cuty.io/h9vdZ7y"
+          }
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1757962642338-Grand_Theft_Auto_San_Andreas_Screenshot_2025.07.20_-_14.49.11.36.webp"
+        ],
+        "etiquetas": []
+      }
+    ],
+    "id": 1757964751633
+  },
   {
     "nombre": "Tienda de Ropa",
     "categoria": "MTA",
