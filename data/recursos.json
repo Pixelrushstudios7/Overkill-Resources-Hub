@@ -1,5 +1,31 @@
 [
   {
+    "nombre": "Tienda de Ropa",
+    "categoria": "MTA",
+    "descripcion": "💥 “¿Quieres más mods, scripts y recursos top? Visita Overkill Studios y consigue todo lo mejor para tus servidores y proyectos. 🚀”",
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1757962337310-image.webp"
+    ],
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-15",
+        "notas": " 👤 CREADOR: DANGER FIRE YT",
+        "descargas": [
+          {
+            "nombre": "Tienda de Ropa",
+            "url": "https://cuty.io/0ovPyZpZ"
+          }
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1757962337310-image.webp"
+        ],
+        "etiquetas": []
+      }
+    ],
+    "id": 1757962343031
+  },
+  {
     "nombre": "Mapeo Dealer",
     "categoria": "MTA",
     "descripcion": "💥 “¿Quieres más mods, scripts y recursos top? Visita Overkill Studios y consigue todo lo mejor para tus servidores y proyectos. 🚀”",
