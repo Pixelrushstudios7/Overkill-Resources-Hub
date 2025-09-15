@@ -1,5 +1,31 @@
 [
   {
+    "nombre": "Mapeo Dealer",
+    "categoria": "MTA",
+    "descripcion": "💥 “¿Quieres más mods, scripts y recursos top? Visita Overkill Studios y consigue todo lo mejor para tus servidores y proyectos. 🚀”",
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1757961856635-Grand_Theft_Auto_San_Andreas_Screenshot_2025.07.20_-_02.27.47.82.webp"
+    ],
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-15",
+        "notas": "👤 CREADOR: DANGER FIRE YT",
+        "descargas": [
+          {
+            "nombre": "dealer",
+            "url": "https://cuty.io/ropx"
+          }
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1757961856635-Grand_Theft_Auto_San_Andreas_Screenshot_2025.07.20_-_02.27.47.82.webp"
+        ],
+        "etiquetas": []
+      }
+    ],
+    "id": 1757962036218
+  },
+  {
     "nombre": "PARQUE + PANTALLA para mta",
     "categoria": "MTA",
     "descripcion": "El mod PARQUE + PANTALLA está diseñado para mejorar y expandir la experiencia visual y de interacción dentro del juego, añadiendo un parque completo acompañado de una pantalla integrada que puede mostrar información, animaciones o contenido dentro del entorno. Este recurso permite a los jugadores disfrutar de un espacio más inmersivo y dinámico, ideal para quienes buscan personalizar sus partidas con detalles realistas y llamativos.  A pesar de sus funcionalidades, el mod es ligero, por lo que no ocupa demasiado espacio ni afecta el rendimiento del juego. Incluye además una imagen de referencia, permitiendo a los usuarios visualizar cómo lucirá el parque y la pantalla antes de instalarlo.",
