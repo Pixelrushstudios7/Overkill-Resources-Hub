@@ -340,29 +340,6 @@
     "id": 1757693965222
   },
   {
-    "nombre": "hud_radar",
-    "categoria": "MTA",
-    "descripcion": "Es un recurso de radar para MTA San Andreas, subido por la comunidad DANGER FIRE YT, ligero en tamaño, con vista previa incluida y con un tutorial disponible en YouTube para su instalación y uso.",
-    "destacado": false,
-    "imagenes": [],
-    "versiones": [
-      {
-        "version": "v1",
-        "fecha": "2025-09-12",
-        "notas": "Creado por: DANGER FIRE YT",
-        "descargas": [
-          {
-            "nombre": "radar",
-            "url": "https://cuty.io/y7IMJ8PKM71"
-          }
-        ],
-        "imagenes": [],
-        "etiquetas": []
-      }
-    ],
-    "id": 1757694374411
-  },
-  {
     "nombre": " MAFIA-1",
     "categoria": "MTA",
     "descripcion": "(ACL: GANG1  esta ganga no es solo mapeo tan bien tiene script",
@@ -386,29 +363,6 @@
       }
     ],
     "id": 1757700950557
-  },
-  {
-    "nombre": " MAFIA-2",
-    "categoria": "MTA",
-    "descripcion": "(ACL: GANG2 | la ubicacion la puedes pedir al privado al contacto  ",
-    "destacado": false,
-    "imagenes": [],
-    "versiones": [
-      {
-        "version": "v1",
-        "fecha": "2025-09-12",
-        "notas": "AUTOR:(NO SE)",
-        "descargas": [
-          {
-            "nombre": "ganga",
-            "url": "https://cuty.io/9lEfs"
-          }
-        ],
-        "imagenes": [],
-        "etiquetas": []
-      }
-    ],
-    "id": 1757701255515
   },
   {
     "nombre": "Velocimetro",
@@ -641,27 +595,4 @@
     ],
     "id": 1757725773791
   },
-  {
-    "nombre": "MECANICO",
-    "categoria": "MTA",
-    "descripcion": "MECÁNICO está diseñado para ofrecer una experiencia más realista y completa dentro del juego, permitiendo a los jugadores interactuar con los vehículos de manera avanzada, realizar ajustes, reparaciones o mejoras, y gestionar todas las funciones mecánicas desde un sistema integrado. Este recurso es ideal para quienes desean añadir un nivel extra de inmersión y personalización, convirtiendo la experiencia de juego en algo mucho más dinámico y entretenido.",
-    "destacado": true,
-    "imagenes": [],
-    "versiones": [
-      {
-        "version": "v1",
-        "fecha": "2025-09-07",
-        "notas": "👤 CREADOR:DANGER FIRE YT",
-        "descargas": [
-          {
-            "nombre": "v1",
-            "url": "https://cuty.io/0k2LfRoo"
-          }
-        ],
-        "imagenes": [],
-        "etiquetas": []
-      }
-    ],
-    "id": 1757727302068
-  }
 ]
