@@ -1,5 +1,31 @@
 [
   {
+    "nombre": "Sistema de blindado de autos",
+    "categoria": "MTA",
+    "descripcion": "Este recurso agrega la función de blindaje a los vehículos, aumentando su resistencia a balas, choques y explosiones. El sistema permite aplicar diferentes niveles de blindado que reducen el daño recibido, ofreciendo más protección y durabilidad al vehículo en combates o persecuciones.",
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758061933480-image.webp"
+    ],
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-16",
+        "notas": "No olvides suscribirte a nuestro canal de YouTube y seguirnos en TikTok y Discord para no perderte novedades, eventos y contenido exclusivo. 💥",
+        "descargas": [
+          {
+            "nombre": "blindado",
+            "url": "https://cuty.io/abvrF"
+          }
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758061933480-image.webp"
+        ],
+        "etiquetas": []
+      }
+    ],
+    "id": 1758062094803
+  },
+  {
     "nombre": "Panel De Sanción",
     "categoria": "MTA",
     "descripcion": "Este recurso añade un panel para que el staff pueda gestionar sanciones de forma sencilla. Permite aplicar castigos como kick, mute, jail o ban a los jugadores, con opciones para seleccionar la duración, el motivo y el tipo de sanción. Facilita el control y administración del servidor desde una interfaz gráfica.",
