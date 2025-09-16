@@ -1,5 +1,31 @@
 [
   {
+    "nombre": "Mansion para mta",
+    "categoria": "MTA",
+    "descripcion": "Mapeo que recrea una mansión lujosa, incluyendo varias habitaciones, sala principal, jardín y garaje. Ideal para roleplay, propiedades de jugadores y eventos privados dentro del servidor.",
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758066970444-image.webp"
+    ],
+    "versiones": [
+      {
+        "version": "V1",
+        "fecha": "2025-09-16",
+        "notas": "No olvides suscribirte a nuestro canal de YouTube y seguirnos en TikTok y Discord para no perderte novedades, eventos y contenido exclusivo. 💥",
+        "descargas": [
+          {
+            "nombre": "mancion",
+            "url": "https://cuty.io/O1tHIQAU8"
+          }
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758066970444-image.webp"
+        ],
+        "etiquetas": []
+      }
+    ],
+    "id": 1758067166202
+  },
+  {
     "nombre": "Mecanico para mta",
     "categoria": "MTA",
     "descripcion": "Mapeo que recrea un taller mecánico completo, con áreas de reparación, herramientas, garaje y zona de atención al cliente. Ideal para roleplay, trabajos de jugador y misiones relacionadas con vehículos dentro del servidor.",
