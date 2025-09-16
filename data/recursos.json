@@ -1,5 +1,31 @@
 [
   {
+    "nombre": "Mecanico Por La Playa",
+    "categoria": "MTA",
+    "descripcion": "Mapeo que recrea un taller mecánico ubicado cerca de la playa, incluyendo zona de reparación de vehículos, almacenamiento de herramientas y decoración temática. Ideal para roleplay, misiones o interacción de jugadores en un entorno costero y realista.",
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758064581102-image.webp"
+    ],
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-16",
+        "notas": "No olvides suscribirte a nuestro canal de YouTube y seguirnos en TikTok y Discord para no perderte novedades, eventos y contenido exclusivo. 💥",
+        "descargas": [
+          {
+            "nombre": "mecanico",
+            "url": "https://cuty.io/cnzOE4unpBu"
+          }
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758064581102-image.webp"
+        ],
+        "etiquetas": []
+      }
+    ],
+    "id": 1758064682468
+  },
+  {
     "nombre": "[RS] Scoreboard",
     "categoria": "MTA",
     "descripcion": "Recurso que muestra un marcador interactivo en pantalla, permitiendo a los jugadores ver información de otros usuarios como nombre, ping, dinero, trabajo y estadísticas del servidor en tiempo real. Facilita la organización y supervisión dentro del juego.",
