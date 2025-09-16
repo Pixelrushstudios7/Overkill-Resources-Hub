@@ -1,5 +1,31 @@
 [
   {
+    "nombre": "Panel De Sanción",
+    "categoria": "MTA",
+    "descripcion": "Este recurso añade un panel para que el staff pueda gestionar sanciones de forma sencilla. Permite aplicar castigos como kick, mute, jail o ban a los jugadores, con opciones para seleccionar la duración, el motivo y el tipo de sanción. Facilita el control y administración del servidor desde una interfaz gráfica.",
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758061726773-image.webp"
+    ],
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-16",
+        "notas": "nose el creador",
+        "descargas": [
+          {
+            "nombre": "panel staff",
+            "url": "https://cuty.io/WW0vfkAKaBQ"
+          }
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758061726773-image.webp"
+        ],
+        "etiquetas": []
+      }
+    ],
+    "id": 1758061826430
+  },
+  {
     "nombre": "Llamados SERVICIOS",
     "categoria": "MTA",
     "descripcion": "Este recurso permite a los jugadores solicitar ayuda directamente al staff mediante un sistema de llamadas o reportes. Incluye un panel o comandos para enviar la solicitud, mostrando el mensaje a los administradores conectados y registrando las llamadas para dar seguimiento.",
