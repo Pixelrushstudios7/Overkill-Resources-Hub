@@ -1,5 +1,33 @@
 [
   {
+    "nombre": "Logs Money para mta",
+    "categoria": "MTA",
+    "descripcion": "Recurso que registra todas las transacciones de dinero de los jugadores, incluyendo ingresos, gastos y transferencias. Permite al staff monitorear movimientos de dinero para mayor control, seguridad y prevención de exploits dentro del servidor.",
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758063371711-mta-screen_2025-08-06_19-14-34.webp",
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758063388240-mta-screen_2025-08-06_19-14-27.webp"
+    ],
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-16",
+        "notas": "No olvides suscribirte a nuestro canal de YouTube y seguirnos en TikTok y Discord para no perderte novedades, eventos y contenido exclusivo. 💥",
+        "descargas": [
+          {
+            "nombre": "Money",
+            "url": "https://cuty.io/0ij5qtcQT6On"
+          }
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758063371711-mta-screen_2025-08-06_19-14-34.webp",
+          "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758063388240-mta-screen_2025-08-06_19-14-27.webp"
+        ],
+        "etiquetas": []
+      }
+    ],
+    "id": 1758063393494
+  },
+  {
     "nombre": "Panel de evento",
     "categoria": "MTA",
     "descripcion": "Recurso que proporciona un panel interactivo para gestionar eventos en el servidor. Permite crear, activar y cerrar eventos, asignar premios, controlar participantes y notificar a los jugadores de manera sencilla desde una interfaz gráfica.",
