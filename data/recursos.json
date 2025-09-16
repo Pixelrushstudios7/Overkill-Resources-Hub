@@ -1,5 +1,31 @@
 [
   {
+    "nombre": "Comisaria para mta",
+    "categoria": "MTA",
+    "descripcion": "Mapeo que recrea una comisaría de policía completa, incluyendo oficinas, celdas, garaje de patrullas y áreas de atención. Ideal para roleplay, misiones policiales y actividades de staff dentro del servidor.",
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758065210036-image.webp"
+    ],
+    "versiones": [
+      {
+        "version": "V1",
+        "fecha": "2025-09-16",
+        "notas": "No olvides suscribirte a nuestro canal de YouTube y seguirnos en TikTok y Discord para no perderte novedades, eventos y contenido exclusivo. 💥",
+        "descargas": [
+          {
+            "nombre": "comisaria",
+            "url": "https://cuty.io/MS9fL8aLeGy"
+          }
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758065210036-image.webp"
+        ],
+        "etiquetas": []
+      }
+    ],
+    "id": 1758065263351
+  },
+  {
     "nombre": "McDonalS Por CJ",
     "categoria": "MTA",
     "descripcion": "Mapeo que recrea un restaurante McDonald’s funcional, con mostrador, cocina, área de atención al cliente y decoración temática. Ideal para roleplay, trabajos de jugador y actividades dentro del servidor.",
