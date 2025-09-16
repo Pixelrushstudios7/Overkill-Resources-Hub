@@ -1,5 +1,31 @@
 [
   {
+    "nombre": "Sistema de Cursor para mta",
+    "categoria": "MTA",
+    "descripcion": "Recurso que permite mostrar y ocultar el cursor del jugador según se necesite, ideal para interfaces y menús dentro del servidor.",
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758062499241-image.webp"
+    ],
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-16",
+        "notas": "No olvides suscribirte a nuestro canal de YouTube y seguirnos en TikTok y Discord para no perderte novedades, eventos y contenido exclusivo. 💥",
+        "descargas": [
+          {
+            "nombre": "cursor",
+            "url": "https://cuty.io/CnY4nmk"
+          }
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758062499241-image.webp"
+        ],
+        "etiquetas": []
+      }
+    ],
+    "id": 1758062602836
+  },
+  {
     "nombre": "Sistema de trafico aereo para mta",
     "categoria": "MTA",
     "descripcion": "Este recurso implementa un sistema de tráfico aéreo dinámico en el servidor, añadiendo aviones y helicópteros controlados por la IA que despegan, vuelan y aterrizan en los aeropuertos. Mejora la ambientación del juego con rutas predefinidas, tráfico realista y la sensación de un mundo más vivo en el aire.",
