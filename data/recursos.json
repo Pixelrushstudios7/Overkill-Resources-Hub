@@ -1,5 +1,31 @@
 [
   {
+    "nombre": "Sistema de carrera ilegal ",
+    "categoria": "MTA",
+    "descripcion": "Recurso que permite organizar carreras clandestinas en el servidor, con registro de participantes, conteo de posiciones, cronómetros y premios. Ideal para eventos de velocidad y competencia entre jugadores fuera de la ley dentro del juego.",
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758062857876-image.webp"
+    ],
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-16",
+        "notas": "No olvides suscribirte a nuestro canal de YouTube y seguirnos en TikTok y Discord para no perderte novedades, eventos y contenido exclusivo. 💥",
+        "descargas": [
+          {
+            "nombre": "carreras ilegales",
+            "url": "https://cuty.io/2Bldqp3G3r"
+          }
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758062857876-image.webp"
+        ],
+        "etiquetas": []
+      }
+    ],
+    "id": 1758062947579
+  },
+  {
     "nombre": "Remover nombre de carro",
     "categoria": "MTA",
     "descripcion": "Recurso que permite ocultar o remover el nombre de los vehículos sobre el jugador, eliminando etiquetas de identificación visibles en pantalla y mejorando la inmersión o estética del servidor.",
