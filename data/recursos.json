@@ -1,5 +1,31 @@
 [
   {
+    "nombre": "Mecanico para mta",
+    "categoria": "MTA",
+    "descripcion": "Mapeo que recrea un taller mecánico completo, con áreas de reparación, herramientas, garaje y zona de atención al cliente. Ideal para roleplay, trabajos de jugador y misiones relacionadas con vehículos dentro del servidor.",
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758066772503-image.webp"
+    ],
+    "versiones": [
+      {
+        "version": "V1",
+        "fecha": "2025-09-16",
+        "notas": "No olvides suscribirte a nuestro canal de YouTube y seguirnos en TikTok y Discord para no perderte novedades, eventos y contenido exclusivo. 💥",
+        "descargas": [
+          {
+            "nombre": "mecanico",
+            "url": "https://cuty.io/Fl7s0FPSM8m"
+          }
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758066772503-image.webp"
+        ],
+        "etiquetas": []
+      }
+    ],
+    "id": 1758066880175
+  },
+  {
     "nombre": "Comisaria para mta",
     "categoria": "MTA",
     "descripcion": "Mapeo que recrea una comisaría de policía completa, incluyendo oficinas, celdas, garaje de patrullas y áreas de atención. Ideal para roleplay, misiones policiales y actividades de staff dentro del servidor.",
