@@ -1,5 +1,31 @@
 [
   {
+    "nombre": "Inventario para mta",
+    "categoria": "MTA",
+    "descripcion": "Recurso que proporciona un sistema de inventario interactivo para los jugadores, permitiendo almacenar, organizar y usar objetos dentro del servidor. Incluye interfaz gráfica para ver, mover y equipar items de manera sencilla.",
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758063764609-image.webp"
+    ],
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-16",
+        "notas": "No olvides suscribirte a nuestro canal de YouTube y seguirnos en TikTok y Discord para no perderte novedades, eventos y contenido exclusivo. 💥",
+        "descargas": [
+          {
+            "nombre": "inventario",
+            "url": "https://cuty.io/ktnR3v"
+          }
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758063764609-image.webp"
+        ],
+        "etiquetas": []
+      }
+    ],
+    "id": 1758063903359
+  },
+  {
     "nombre": "Sistema De Tienda Skin para mta",
     "categoria": "MTA",
     "descripcion": "Recurso que permite a los jugadores comprar y cambiar skins dentro del servidor mediante una tienda interactiva. Incluye interfaz para seleccionar skins disponibles, realizar la compra y aplicarlas al personaje de manera inmediata.",
