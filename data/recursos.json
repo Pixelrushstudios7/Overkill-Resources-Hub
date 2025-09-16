@@ -1,5 +1,31 @@
 [
   {
+    "nombre": "McDonalS Por CJ",
+    "categoria": "MTA",
+    "descripcion": "Mapeo que recrea un restaurante McDonald’s funcional, con mostrador, cocina, área de atención al cliente y decoración temática. Ideal para roleplay, trabajos de jugador y actividades dentro del servidor.",
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758064977172-image.webp"
+    ],
+    "versiones": [
+      {
+        "version": "V1",
+        "fecha": "2025-09-16",
+        "notas": "No olvides suscribirte a nuestro canal de YouTube y seguirnos en TikTok y Discord para no perderte novedades, eventos y contenido exclusivo. 💥",
+        "descargas": [
+          {
+            "nombre": "restaurante",
+            "url": "https://cuty.io/ZwfOH"
+          }
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758064977172-image.webp"
+        ],
+        "etiquetas": []
+      }
+    ],
+    "id": 1758065090385
+  },
+  {
     "nombre": "AGORA MALL para mta",
     "categoria": "MTA",
     "descripcion": "Mapeo que recrea un centro comercial moderno, con tiendas, pasillos, áreas de comida y espacios públicos. Ideal para roleplay, eventos dentro del servidor y exploración de jugadores en un entorno urbano y detallado.",
