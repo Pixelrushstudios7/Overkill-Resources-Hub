@@ -1,5 +1,31 @@
 [
   {
+    "nombre": "AGORA MALL para mta",
+    "categoria": "MTA",
+    "descripcion": "Mapeo que recrea un centro comercial moderno, con tiendas, pasillos, áreas de comida y espacios públicos. Ideal para roleplay, eventos dentro del servidor y exploración de jugadores en un entorno urbano y detallado.",
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758064768060-image.webp"
+    ],
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-16",
+        "notas": "No olvides suscribirte a nuestro canal de YouTube y seguirnos en TikTok y Discord para no perderte novedades, eventos y contenido exclusivo. 💥",
+        "descargas": [
+          {
+            "nombre": "centro comercial",
+            "url": "https://cuty.io/KLGBCx2gNQi"
+          }
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758064768060-image.webp"
+        ],
+        "etiquetas": []
+      }
+    ],
+    "id": 1758064861924
+  },
+  {
     "nombre": "Mecanico Por La Playa",
     "categoria": "MTA",
     "descripcion": "Mapeo que recrea un taller mecánico ubicado cerca de la playa, incluyendo zona de reparación de vehículos, almacenamiento de herramientas y decoración temática. Ideal para roleplay, misiones o interacción de jugadores en un entorno costero y realista.",
