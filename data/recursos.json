@@ -1,5 +1,31 @@
 [
   {
+    "nombre": "[RS] Scoreboard",
+    "categoria": "MTA",
+    "descripcion": "Recurso que muestra un marcador interactivo en pantalla, permitiendo a los jugadores ver información de otros usuarios como nombre, ping, dinero, trabajo y estadísticas del servidor en tiempo real. Facilita la organización y supervisión dentro del juego.",
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758064054852-image.webp"
+    ],
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-16",
+        "notas": "No olvides suscribirte a nuestro canal de YouTube y seguirnos en TikTok y Discord para no perderte novedades, eventos y contenido exclusivo. 💥",
+        "descargas": [
+          {
+            "nombre": "Scoreboard",
+            "url": "https://cuty.io/laWTeEcuc1"
+          }
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758064054852-image.webp"
+        ],
+        "etiquetas": []
+      }
+    ],
+    "id": 1758064269480
+  },
+  {
     "nombre": "Inventario para mta",
     "categoria": "MTA",
     "descripcion": "Recurso que proporciona un sistema de inventario interactivo para los jugadores, permitiendo almacenar, organizar y usar objetos dentro del servidor. Incluye interfaz gráfica para ver, mover y equipar items de manera sencilla.",
