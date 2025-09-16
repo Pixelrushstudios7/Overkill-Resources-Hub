@@ -1,5 +1,31 @@
 [
   {
+    "nombre": "Sistema De Tienda Skin para mta",
+    "categoria": "MTA",
+    "descripcion": "Recurso que permite a los jugadores comprar y cambiar skins dentro del servidor mediante una tienda interactiva. Incluye interfaz para seleccionar skins disponibles, realizar la compra y aplicarlas al personaje de manera inmediata.",
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758063653361-image.webp"
+    ],
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-16",
+        "notas": "No olvides suscribirte a nuestro canal de YouTube y seguirnos en TikTok y Discord para no perderte novedades, eventos y contenido exclusivo. 💥",
+        "descargas": [
+          {
+            "nombre": "sistema skin",
+            "url": "https://cuty.io/OmEV6P0"
+          }
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758063653361-image.webp"
+        ],
+        "etiquetas": []
+      }
+    ],
+    "id": 1758063706315
+  },
+  {
     "nombre": " Sistema de Identidad para mta",
     "categoria": "MTA",
     "descripcion": "Recurso que permite a los jugadores crear y gestionar su identidad dentro del servidor, incluyendo nombre, apellido, edad y otros datos. También permite al staff verificar, editar o validar identidades de manera organizada desde un panel o comandos.",
