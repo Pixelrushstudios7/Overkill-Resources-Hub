@@ -1,5 +1,31 @@
 [
   {
+    "nombre": "Remover nombre de carro",
+    "categoria": "MTA",
+    "descripcion": "Recurso que permite ocultar o remover el nombre de los vehículos sobre el jugador, eliminando etiquetas de identificación visibles en pantalla y mejorando la inmersión o estética del servidor.",
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758062662483-image.webp"
+    ],
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-16",
+        "notas": "No olvides suscribirte a nuestro canal de YouTube y seguirnos en TikTok y Discord para no perderte novedades, eventos y contenido exclusivo. 💥",
+        "descargas": [
+          {
+            "nombre": "Quita nombre autos",
+            "url": "https://cuty.io/gKJkvN"
+          }
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758062662483-image.webp"
+        ],
+        "etiquetas": []
+      }
+    ],
+    "id": 1758062766698
+  },
+  {
     "nombre": "Sistema de Cursor para mta",
     "categoria": "MTA",
     "descripcion": "Recurso que permite mostrar y ocultar el cursor del jugador según se necesite, ideal para interfaces y menús dentro del servidor.",
