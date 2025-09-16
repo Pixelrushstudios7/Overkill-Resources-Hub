@@ -1,5 +1,31 @@
 [
   {
+    "nombre": " Sistema de Identidad para mta",
+    "categoria": "MTA",
+    "descripcion": "Recurso que permite a los jugadores crear y gestionar su identidad dentro del servidor, incluyendo nombre, apellido, edad y otros datos. También permite al staff verificar, editar o validar identidades de manera organizada desde un panel o comandos.",
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758063510949-image.webp"
+    ],
+    "versiones": [
+      {
+        "version": "v1",
+        "fecha": "2025-09-16",
+        "notas": "No olvides suscribirte a nuestro canal de YouTube y seguirnos en TikTok y Discord para no perderte novedades, eventos y contenido exclusivo. 💥",
+        "descargas": [
+          {
+            "nombre": "identidAD",
+            "url": "https://cuty.io/UmXptOVc"
+          }
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758063510949-image.webp"
+        ],
+        "etiquetas": []
+      }
+    ],
+    "id": 1758063576673
+  },
+  {
     "nombre": "Logs Money para mta",
     "categoria": "MTA",
     "descripcion": "Recurso que registra todas las transacciones de dinero de los jugadores, incluyendo ingresos, gastos y transferencias. Permite al staff monitorear movimientos de dinero para mayor control, seguridad y prevención de exploits dentro del servidor.",
