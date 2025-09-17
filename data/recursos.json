@@ -1,5 +1,31 @@
 [
   {
+    "nombre": "plaza urbana para mta",
+    "categoria": "MTA",
+    "descripcion": "Mapeo que recrea una plaza urbana completa, con áreas peatonales, bancas, jardines, fuentes y espacios de encuentro. Ideal para roleplay, eventos y actividades sociales dentro del servidor.",
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758068218422-image.webp"
+    ],
+    "versiones": [
+      {
+        "version": "V1",
+        "fecha": "2025-09-17",
+        "notas": "No olvides suscribirte a nuestro canal de YouTube y seguirnos en TikTok y Discord para no perderte novedades, eventos y contenido exclusivo. 💥",
+        "descargas": [
+          {
+            "nombre": "Plaza",
+            "url": "https://cuty.io/cDwIJX"
+          }
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758068218422-image.webp"
+        ],
+        "etiquetas": []
+      }
+    ],
+    "id": 1758068601575
+  },
+  {
     "nombre": "Diler para mta ",
     "categoria": "MTA",
     "descripcion": "Mapeo que recrea un punto de venta clandestino o distribuidor de ítems/mercancía, con áreas de interacción para jugadores, zonas de entrega y escondites. Ideal para roleplay de actividades ilegales y misiones dentro del servidor.",
