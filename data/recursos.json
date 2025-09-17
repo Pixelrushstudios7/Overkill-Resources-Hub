@@ -1,5 +1,31 @@
 [
   {
+    "nombre": "Diler para mta ",
+    "categoria": "MTA",
+    "descripcion": "Mapeo que recrea un punto de venta clandestino o distribuidor de ítems/mercancía, con áreas de interacción para jugadores, zonas de entrega y escondites. Ideal para roleplay de actividades ilegales y misiones dentro del servidor.",
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758067958602-image.webp"
+    ],
+    "versiones": [
+      {
+        "version": "V1",
+        "fecha": "2025-09-17",
+        "notas": "No olvides suscribirte a nuestro canal de YouTube y seguirnos en TikTok y Discord para no perderte novedades, eventos y contenido exclusivo. 💥",
+        "descargas": [
+          {
+            "nombre": "Diler",
+            "url": "https://cuty.io/o0KFke"
+          }
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758067958602-image.webp"
+        ],
+        "etiquetas": []
+      }
+    ],
+    "id": 1758068073889
+  },
+  {
     "nombre": "La sirena para mta",
     "categoria": "MTA",
     "descripcion": "Mapeo que recrea un supermercado completo, con pasillos, estanterías, cajas registradoras y áreas de almacenamiento. Ideal para roleplay, trabajos de jugadores y compras dentro del servidor.",
