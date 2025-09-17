@@ -1,5 +1,33 @@
 [
   {
+    "nombre": "Mecanico en montaña para mta",
+    "categoria": "MTA",
+    "descripcion": "Mapeo que recrea un taller mecánico ubicado en la montaña, con áreas de reparación, garaje y herramientas, integrado al entorno montañoso. Ideal para roleplay, trabajos de vehículos y misiones en zonas remotas del servidor.",
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758068731353-image.webp",
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758068791291-image.webp"
+    ],
+    "versiones": [
+      {
+        "version": "V1",
+        "fecha": "2025-09-17",
+        "notas": "No olvides suscribirte a nuestro canal de YouTube y seguirnos en TikTok y Discord para no perderte novedades, eventos y contenido exclusivo. 💥",
+        "descargas": [
+          {
+            "nombre": "Meca",
+            "url": "https://cuty.io/dXgs8GV"
+          }
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758068731353-image.webp",
+          "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758068791291-image.webp"
+        ],
+        "etiquetas": []
+      }
+    ],
+    "id": 1758068890187
+  },
+  {
     "nombre": "plaza urbana para mta",
     "categoria": "MTA",
     "descripcion": "Mapeo que recrea una plaza urbana completa, con áreas peatonales, bancas, jardines, fuentes y espacios de encuentro. Ideal para roleplay, eventos y actividades sociales dentro del servidor.",
