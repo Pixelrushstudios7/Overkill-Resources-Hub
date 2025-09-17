@@ -1,5 +1,31 @@
 [
   {
+    "nombre": "Estacionamiento",
+    "categoria": "MTA",
+    "descripcion": "Mapeo que recrea un estacionamiento completo, con espacios para vehículos, rampas de acceso y zonas de circulación. Ideal para roleplay, parkings de negocios o áreas de almacenamiento de vehículos dentro del servidor.",
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758069370433-image.webp"
+    ],
+    "versiones": [
+      {
+        "version": "V1",
+        "fecha": "2025-09-17",
+        "notas": "No olvides suscribirte a nuestro canal de YouTube y seguirnos en TikTok y Discord para no perderte novedades, eventos y contenido exclusivo. 💥",
+        "descargas": [
+          {
+            "nombre": "PARKEO",
+            "url": "https://cuty.io/GUCV4sGer0"
+          }
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758069370433-image.webp"
+        ],
+        "etiquetas": []
+      }
+    ],
+    "id": 1758069665437
+  },
+  {
     "nombre": "Comisaria Estilo FiveM",
     "categoria": "MTA",
     "descripcion": "Mapeo que recrea una comisaría moderna inspirada en servidores FiveM, con oficinas, celdas, garaje de patrullas y áreas de atención al público. Ideal para roleplay policial y misiones del staff dentro del servidor.",
