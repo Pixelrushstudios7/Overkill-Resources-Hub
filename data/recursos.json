@@ -1,5 +1,132 @@
 [
   {
+    "nombre": "WorldEdit: Edición Bedrock",
+    "categoria": "Minecraft",
+    "descripcion": "¡Bienvenido! ¿Juegas a Minecraft Bedrock y quieres esculpir montañas, excavar ríos, construir torres, castillos y mucho más? ¡Este es el complemento perfecto para ti! WorldEdit: Bedrock Edition, una versión del mod original de Java, te ayudará a construir cosas más fácil y divertida. Incluye un montón de comandos, además de un práctico kit para quienes no te guste escribir.",
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1758409179327-banner_0-9-0-png.png",
+      "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1758409303801-worldedit-bedrock-edition-landscaping-update_2.png",
+      "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1758409319421-worldedit-bedrock-edition-landscaping-update_3.png"
+    ],
+    "versiones": [
+      {
+        "version": "0.10.1",
+        "fecha": "2025-09-20",
+        "notas": "¡Te brinda las herramientas para que construir sea más fácil y divertido!",
+        "descargas": [
+          {
+            "nombre": "1.21.100",
+            "url": "https://cuty.io/3txVqtXOu"
+          }
+        ],
+        "etiquetas": [
+          "scripts"
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1758409179327-banner_0-9-0-png.png",
+          "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1758409303801-worldedit-bedrock-edition-landscaping-update_2.png",
+          "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1758409319421-worldedit-bedrock-edition-landscaping-update_3.png"
+        ]
+      },
+      {
+        "version": "0.10.0",
+        "fecha": "2025-09-20",
+        "notas": "¡Te brinda las herramientas para que construir sea más fácil y divertido!",
+        "descargas": [
+          {
+            "nombre": "1.21.100",
+            "url": "https://cuty.io/YXt75"
+          }
+        ],
+        "etiquetas": [
+          "scripts"
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1758409179327-banner_0-9-0-png.png",
+          "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1758409303801-worldedit-bedrock-edition-landscaping-update_2.png",
+          "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1758409319421-worldedit-bedrock-edition-landscaping-update_3.png"
+        ]
+      },
+      {
+        "version": "0.9.9",
+        "fecha": "2025-09-20",
+        "notas": "¡Te brinda las herramientas para que construir sea más fácil y divertido!",
+        "descargas": [
+          {
+            "nombre": "1.21.90",
+            "url": "https://cuty.io/FoS74MYu4cgV"
+          }
+        ],
+        "etiquetas": [
+          "scripts"
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1758409179327-banner_0-9-0-png.png",
+          "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1758409303801-worldedit-bedrock-edition-landscaping-update_2.png",
+          "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1758409319421-worldedit-bedrock-edition-landscaping-update_3.png"
+        ]
+      },
+      {
+        "version": "0.9.8",
+        "fecha": "2025-09-20",
+        "notas": "¡Te brinda las herramientas para que construir sea más fácil y divertido!",
+        "descargas": [
+          {
+            "nombre": "1.21.80",
+            "url": "https://cuty.io/6DKW5QCM"
+          }
+        ],
+        "etiquetas": [
+          "scripts"
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1758409179327-banner_0-9-0-png.png",
+          "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1758409303801-worldedit-bedrock-edition-landscaping-update_2.png",
+          "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1758409319421-worldedit-bedrock-edition-landscaping-update_3.png"
+        ]
+      },
+      {
+        "version": "0.9.7",
+        "fecha": "2025-09-20",
+        "notas": "¡Te brinda las herramientas para que construir sea más fácil y divertido!",
+        "descargas": [
+          {
+            "nombre": "1.21.73",
+            "url": "https://cuty.io/Hkalaos5"
+          }
+        ],
+        "etiquetas": [
+          "scripts"
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1758409179327-banner_0-9-0-png.png",
+          "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1758409303801-worldedit-bedrock-edition-landscaping-update_2.png",
+          "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1758409319421-worldedit-bedrock-edition-landscaping-update_3.png"
+        ]
+      },
+      {
+        "version": "0.9.6",
+        "fecha": "2025-09-20",
+        "notas": "¡Te brinda las herramientas para que construir sea más fácil y divertido!",
+        "descargas": [
+          {
+            "nombre": "1.21.61",
+            "url": "https://cuty.io/rRfY0RoF"
+          }
+        ],
+        "etiquetas": [
+          "scripts"
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1758409179327-banner_0-9-0-png.png",
+          "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1758409303801-worldedit-bedrock-edition-landscaping-update_2.png",
+          "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1758409319421-worldedit-bedrock-edition-landscaping-update_3.png"
+        ]
+      }
+    ],
+    "id": 1758410283634
+  },
+  {
     "nombre": "Estacionamiento",
     "categoria": "MTA",
     "descripcion": "Mapeo que recrea un estacionamiento completo, con espacios para vehículos, rampas de acceso y zonas de circulación. Ideal para roleplay, parkings de negocios o áreas de almacenamiento de vehículos dentro del servidor.",
