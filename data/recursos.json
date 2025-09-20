@@ -1,5 +1,67 @@
 [
   {
+    "nombre": "Cola de IU",
+    "categoria": "Minecraft",
+    "descripcion": "La cola de IU es un script que transforma el comando de título en un mensaje de IU personalizado. Este script se creó para evitar la superposición de títulos que podrían afectar la IU personalizada. Este paquete está diseñado especialmente para quienes desean añadir una IU personalizada a sus complementos y mantener la compatibilidad con otros.",
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758410550488-description_1e1a1510-1f4c-42ca-aeaa-c7aef828caa0.png"
+    ],
+    "versiones": [
+      {
+        "version": "1.4",
+        "fecha": "2025-09-20",
+        "notas": "qduoubp Dueño",
+        "descargas": [
+          {
+            "nombre": "1.21.100",
+            "url": "https://cuty.io/J5rQcaJWG6Y"
+          }
+        ],
+        "etiquetas": [
+          "scripts"
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758410550488-description_1e1a1510-1f4c-42ca-aeaa-c7aef828caa0.png"
+        ]
+      },
+      {
+        "version": "1.3",
+        "fecha": "2025-09-20",
+        "notas": "qduoubp Dueño",
+        "descargas": [
+          {
+            "nombre": "1.21.60",
+            "url": "https://cuty.io/GsOLz"
+          }
+        ],
+        "etiquetas": [
+          "scripts"
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758410550488-description_1e1a1510-1f4c-42ca-aeaa-c7aef828caa0.png"
+        ]
+      },
+      {
+        "version": "1.2",
+        "fecha": "2025-09-20",
+        "notas": "qduoubp Dueño",
+        "descargas": [
+          {
+            "nombre": "1.21.80",
+            "url": "https://cuty.io/GsOLz"
+          }
+        ],
+        "etiquetas": [
+          "scripts"
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/MTA/main/assets/img/1758410550488-description_1e1a1510-1f4c-42ca-aeaa-c7aef828caa0.png"
+        ]
+      }
+    ],
+    "id": 1758410940442
+  },
+  {
     "nombre": "WorldEdit: Edición Bedrock",
     "categoria": "Minecraft",
     "descripcion": "¡Bienvenido! ¿Juegas a Minecraft Bedrock y quieres esculpir montañas, excavar ríos, construir torres, castillos y mucho más? ¡Este es el complemento perfecto para ti! WorldEdit: Bedrock Edition, una versión del mod original de Java, te ayudará a construir cosas más fácil y divertida. Incluye un montón de comandos, además de un práctico kit para quienes no te guste escribir.",
