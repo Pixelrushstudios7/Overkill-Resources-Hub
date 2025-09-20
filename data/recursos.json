@@ -1,5 +1,33 @@
 [
   {
+    "nombre": "Indigo Hotel Escape Room Mapa",
+    "categoria": "Minecraft",
+    "descripcion": "Indigo Hotel Escape Room es un mapa de aventura que te pone a prueba en 100 habitaciones llenas de puzzles, laberintos, monstruos y mucho más.  Desafía tu ingenio y habilidades mientras exploras este hotel tan misterioso, resolviendo acertijos, descifrando códigos y enfrentándote a diferentes enemigos. Cada habitación te tendrá un nuevo reto que te acercará a la salida.  Características del mapa:  100 habitaciones únicas: descubre una gran variedad de puzzles y desafíos en cada habitación. Modo historia: sigue una trama intrigante mientras exploras el hotel y sus secretos. Dificultad ajustable: elige entre 3 niveles de dificultad para adaptar la experiencia a tu gusto. Soporte para 1 a 4 jugadores: juega solo o con amigos y colabora para escapar. Idioma: soporta Español, Portugués e Inglés. Se recomienda usar Optifine en este mapa.",
+    "imagenes": [
+      "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1758411722343-indigo-hotel-escape-room-mapa.webp"
+    ],
+    "versiones": [
+      {
+        "version": "1.20.x",
+        "fecha": "2025-09-20",
+        "notas": "Creadores: henrico",
+        "descargas": [
+          {
+            "nombre": "1.20.x",
+            "url": "https://cuty.io/B2uN0374Xvrr"
+          }
+        ],
+        "etiquetas": [
+          "mapeos"
+        ],
+        "imagenes": [
+          "https://raw.githubusercontent.com/andersonculero/Minecraft/main/assets/img/1758411722343-indigo-hotel-escape-room-mapa.webp"
+        ]
+      }
+    ],
+    "id": 1758411785487
+  },
+  {
     "nombre": "OneBlock Original Mapa",
     "categoria": "Minecraft",
     "descripcion": "Uno de los mapas más populares en los últimos años en el juego, OneBlock es un mapa en el cual tienes que sobrevivir en un solo bloque, no tienes más que eso, tienes que romper el bloque en el que te encuentras para avanzar, al romper el bloque obtendrás este mismo al romperse y así expandir más tu isla en el cielo. ¡Este mapa soporta varios jugadores al mismo tiempo!",
